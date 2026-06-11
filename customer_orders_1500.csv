@@ -1,0 +1,1501 @@
+Order ID,Customer Name,Region,Category,Quantity,Sales,Profit,Payment Method,Order Date
+ORD00001,Ananya Sharma,East,Furniture,4,7407.13,560.16,Cash,2024-03-30
+ORD00002,Varun Singh,North,Electronics,2,11322.58,1996.61,UPI,2025-07-28
+ORD00003,Karthik Verma,Central,Clothing,4,22735.85,2718.02,UPI,2024-06-12
+ORD00004,Divya Kumar,East,Furniture,4,47882.05,6423.31,UPI,2025-01-24
+ORD00005,Ananya Kumar,East,Groceries,5,40452.85,9402.58,Cash,2024-05-07
+ORD00006,Suresh Patel,Central,Office Supplies,10,44329.86,6224.3,Credit Card,2025-12-22
+ORD00007,Arjun Sharma,South,Office Supplies,2,42838.23,11421.57,Net Banking,2024-10-11
+ORD00008,Manoj Joshi,East,Furniture,6,18085.9,3934.48,UPI,2025-09-15
+ORD00009,Sneha Menon,South,Furniture,8,19283.04,5734.41,Cash,2024-08-12
+ORD00010,Amit Yadav,North,Furniture,1,40349.77,6064.22,UPI,2024-08-04
+ORD00011,Varun Kapoor,East,Furniture,8,20083.78,5596.08,Net Banking,2024-05-26
+ORD00012,Rohan Nair,South,Groceries,9,13505.71,2649.1,Cash,2025-02-12
+ORD00013,Neha Reddy,South,Groceries,8,5000.02,308.9,UPI,2024-06-05
+ORD00014,Sneha Jain,West,Groceries,2,19545.98,3889.1,Net Banking,2025-06-25
+ORD00015,Rohan Menon,North,Electronics,9,37668.45,9121.4,Debit Card,2024-04-24
+ORD00016,Pooja Singh,South,Clothing,1,47713.89,12833.28,Debit Card,2025-05-27
+ORD00017,Sneha Menon,North,Office Supplies,9,30644.03,2703.1,Credit Card,2025-07-06
+ORD00018,Ajay Kapoor,North,Groceries,6,24685.98,1924.69,Debit Card,2024-11-10
+ORD00019,Meera Sharma,South,Groceries,2,4739.85,812.87,UPI,2025-06-29
+ORD00020,Vikram Nair,West,Groceries,3,13620.3,3651.71,Net Banking,2024-08-04
+ORD00021,Nisha Jain,South,Office Supplies,7,49759.89,10572.46,Net Banking,2025-06-13
+ORD00022,Manoj Patel,South,Furniture,2,17235.24,3396.67,Credit Card,2025-08-25
+ORD00023,Meera Sharma,North,Electronics,4,3836.32,221.94,Debit Card,2024-03-13
+ORD00024,Ajay Reddy,East,Clothing,4,27192.08,6276.97,Cash,2025-08-13
+ORD00025,Kavya Reddy,West,Clothing,4,5169.13,1110.05,Debit Card,2025-03-09
+ORD00026,Divya Iyer,North,Electronics,1,20429.75,2754.45,UPI,2024-09-11
+ORD00027,Karthik Reddy,Central,Clothing,3,21383.14,2558.2,Credit Card,2024-03-18
+ORD00028,Manoj Jain,Central,Electronics,1,32781.17,6069.33,UPI,2024-04-05
+ORD00029,Meera Nair,West,Clothing,8,11080.49,1664.96,UPI,2024-06-17
+ORD00030,Suresh Sharma,West,Office Supplies,8,14619.84,3277.01,Cash,2025-11-08
+ORD00031,Kavya Nair,South,Office Supplies,4,48451.11,9438.04,Cash,2024-03-03
+ORD00032,Amit Sharma,North,Groceries,8,25391.09,6682.43,Credit Card,2024-02-28
+ORD00033,Ajay Patel,South,Electronics,10,3864.06,1025.73,Net Banking,2024-05-02
+ORD00034,Varun Reddy,Central,Groceries,1,31159.38,4823.67,Cash,2025-08-01
+ORD00035,Ajay Kumar,East,Furniture,6,12314.95,1834.27,Debit Card,2025-04-13
+ORD00036,Amit Kapoor,North,Electronics,8,31247.38,5960.39,UPI,2024-03-16
+ORD00037,Nisha Reddy,Central,Office Supplies,3,46696.34,12618.1,Credit Card,2025-01-13
+ORD00038,Pooja Nair,West,Groceries,5,30778.05,9135.18,Cash,2024-01-09
+ORD00039,Nisha Gupta,North,Furniture,5,6213.72,476.96,Cash,2024-06-08
+ORD00040,Rohan Gupta,Central,Furniture,6,10578.07,2206.16,Debit Card,2025-06-01
+ORD00041,Kavya Gupta,North,Electronics,7,41552.73,2535.62,Debit Card,2024-05-13
+ORD00042,Rohan Nair,West,Groceries,7,28264.89,2203.77,Credit Card,2025-07-12
+ORD00043,Priya Yadav,East,Groceries,9,7830.64,641.03,Debit Card,2025-01-08
+ORD00044,Priya Kapoor,East,Furniture,4,33513.2,4638.89,Cash,2025-02-20
+ORD00045,Asha Verma,South,Furniture,3,48822.2,12337.02,Net Banking,2024-01-26
+ORD00046,Sneha Verma,East,Clothing,4,13706.88,3383.46,UPI,2025-01-26
+ORD00047,Priya Yadav,West,Furniture,4,40921.04,6755.07,Debit Card,2024-08-21
+ORD00048,Meera Sharma,South,Clothing,6,14290.85,962.56,Debit Card,2024-12-25
+ORD00049,Ajay Singh,Central,Office Supplies,1,6209.42,1816.88,Credit Card,2025-08-17
+ORD00050,Rohan Sharma,North,Groceries,7,17611.51,4343.12,Net Banking,2025-09-12
+ORD00051,Ajay Patel,West,Groceries,4,13108.76,2978.26,UPI,2025-06-16
+ORD00052,Nisha Joshi,South,Office Supplies,7,3963.7,856.39,Debit Card,2025-09-30
+ORD00053,Amit Joshi,North,Office Supplies,9,15809.59,2404.61,Net Banking,2025-12-14
+ORD00054,Pooja Menon,South,Furniture,7,33414.01,4837.89,Credit Card,2025-09-22
+ORD00055,Varun Gupta,West,Groceries,1,15541.81,1593.75,Cash,2025-09-13
+ORD00056,Amit Iyer,West,Clothing,4,25803.11,6410.37,Credit Card,2025-11-05
+ORD00057,Arjun Gupta,Central,Groceries,6,5122.67,1475.33,Credit Card,2025-11-19
+ORD00058,Pooja Reddy,South,Furniture,1,2787.58,825.08,Cash,2024-03-15
+ORD00059,Manoj Singh,Central,Furniture,7,24971.67,2771.76,UPI,2024-04-19
+ORD00060,Divya Reddy,South,Groceries,8,2985.81,335.31,UPI,2025-04-12
+ORD00061,Vikram Jain,West,Groceries,9,29974.89,8618.08,Net Banking,2025-09-19
+ORD00062,Ajay Singh,Central,Clothing,3,37310.94,6293.18,Debit Card,2024-09-10
+ORD00063,Rohan Jain,Central,Clothing,4,14092.57,977.61,Debit Card,2024-08-28
+ORD00064,Rohan Kumar,East,Groceries,2,7349.52,792.39,Credit Card,2025-12-24
+ORD00065,Karthik Patel,West,Clothing,6,27359.25,4211.78,Credit Card,2025-03-06
+ORD00066,Suresh Kapoor,Central,Electronics,10,19328.86,994.93,Debit Card,2024-11-01
+ORD00067,Suresh Yadav,West,Groceries,9,40093.47,11003.77,Net Banking,2024-08-12
+ORD00068,Rohan Singh,West,Electronics,7,17138.41,3766.77,Net Banking,2024-06-18
+ORD00069,Manoj Kapoor,South,Groceries,9,1834.84,272.48,Cash,2025-11-09
+ORD00070,Rahul Patel,West,Furniture,8,9495.59,1092.36,Debit Card,2024-08-04
+ORD00071,Manoj Kumar,East,Clothing,5,37724.49,9732.2,Debit Card,2024-03-24
+ORD00072,Kavya Sharma,Central,Electronics,6,11599.0,778.93,UPI,2024-02-01
+ORD00073,Meera Reddy,North,Groceries,3,12307.97,2072.54,UPI,2025-07-31
+ORD00074,Karthik Iyer,East,Office Supplies,3,30491.69,8871.06,UPI,2024-06-16
+ORD00075,Pooja Patel,Central,Electronics,5,29001.94,8033.73,Net Banking,2025-02-10
+ORD00076,Karthik Patel,Central,Furniture,2,35011.05,4390.23,Cash,2024-05-03
+ORD00077,Varun Jain,North,Office Supplies,9,21704.71,3096.02,Cash,2025-10-25
+ORD00078,Amit Sharma,West,Clothing,2,21959.41,3086.33,Net Banking,2025-12-25
+ORD00079,Vikram Singh,South,Groceries,5,30987.66,8673.58,Net Banking,2025-04-21
+ORD00080,Divya Yadav,Central,Office Supplies,6,42659.8,10992.69,UPI,2024-10-12
+ORD00081,Manoj Reddy,West,Groceries,10,33575.33,4502.42,Net Banking,2024-11-28
+ORD00082,Sneha Iyer,South,Office Supplies,5,17346.77,4685.02,Debit Card,2025-07-23
+ORD00083,Rahul Menon,South,Electronics,4,36143.7,6221.94,Credit Card,2025-12-08
+ORD00084,Kavya Joshi,West,Clothing,1,5106.14,538.18,Credit Card,2024-11-09
+ORD00085,Varun Kumar,West,Groceries,9,17515.99,5240.05,Cash,2024-12-04
+ORD00086,Neha Verma,West,Office Supplies,5,12944.48,1037.68,Credit Card,2024-11-19
+ORD00087,Ananya Verma,Central,Furniture,4,11211.04,1917.64,Cash,2025-06-21
+ORD00088,Asha Gupta,North,Furniture,5,11760.42,1115.6,UPI,2025-12-26
+ORD00089,Nisha Nair,East,Electronics,1,27891.27,6257.53,Credit Card,2025-10-15
+ORD00090,Kavya Patel,North,Groceries,5,23735.15,3800.41,Credit Card,2024-02-22
+ORD00091,Rohan Yadav,West,Electronics,2,20335.02,1393.37,UPI,2024-06-04
+ORD00092,Vikram Jain,Central,Office Supplies,2,49698.95,3956.68,Net Banking,2025-09-12
+ORD00093,Asha Jain,Central,Furniture,9,19328.71,5356.49,Debit Card,2025-08-25
+ORD00094,Divya Gupta,Central,Groceries,1,30676.73,7209.72,Credit Card,2025-10-02
+ORD00095,Karthik Gupta,North,Furniture,4,9103.77,626.03,UPI,2025-02-22
+ORD00096,Manoj Verma,Central,Clothing,5,2115.67,258.17,Debit Card,2025-12-20
+ORD00097,Manoj Patel,South,Office Supplies,10,33228.56,9417.54,Net Banking,2024-04-27
+ORD00098,Nisha Reddy,South,Office Supplies,3,4034.79,369.11,Debit Card,2025-09-01
+ORD00099,Varun Kapoor,East,Clothing,2,23700.55,2986.81,Net Banking,2024-10-05
+ORD00100,Ajay Menon,West,Clothing,2,30102.81,8198.67,Debit Card,2025-09-10
+ORD00101,Rohan Sharma,North,Furniture,10,29562.59,1631.45,Debit Card,2025-08-13
+ORD00102,Priya Jain,South,Clothing,9,32749.72,9137.77,Credit Card,2025-08-22
+ORD00103,Divya Joshi,West,Electronics,8,17724.07,2363.1,UPI,2024-06-13
+ORD00104,Amit Singh,West,Office Supplies,7,40771.52,7645.64,Net Banking,2024-03-31
+ORD00105,Amit Gupta,East,Electronics,7,43313.07,11098.19,UPI,2025-11-04
+ORD00106,Nisha Iyer,West,Electronics,4,26162.75,5380.59,Net Banking,2025-10-02
+ORD00107,Manoj Jain,North,Furniture,5,27686.37,7805.29,Net Banking,2025-12-16
+ORD00108,Kavya Patel,North,Groceries,4,35634.25,4550.05,UPI,2025-07-19
+ORD00109,Divya Patel,South,Electronics,8,47379.51,10041.02,Credit Card,2025-05-25
+ORD00110,Pooja Menon,East,Clothing,8,49022.11,5438.16,Cash,2024-05-28
+ORD00111,Suresh Reddy,Central,Groceries,3,43269.33,5151.73,Net Banking,2024-12-14
+ORD00112,Ajay Gupta,North,Office Supplies,5,41955.06,8180.43,Net Banking,2024-06-01
+ORD00113,Manoj Menon,West,Office Supplies,6,27819.91,5170.54,Net Banking,2024-11-25
+ORD00114,Karthik Verma,South,Groceries,7,12061.34,2941.59,UPI,2024-11-21
+ORD00115,Kavya Verma,West,Clothing,3,25018.77,1482.48,Cash,2025-08-27
+ORD00116,Amit Yadav,North,Clothing,2,26534.58,4357.83,Credit Card,2025-02-23
+ORD00117,Vikram Patel,West,Office Supplies,6,31351.34,4682.98,UPI,2024-12-02
+ORD00118,Nisha Singh,East,Clothing,9,2277.01,152.8,Debit Card,2024-08-20
+ORD00119,Arjun Singh,North,Electronics,8,8735.06,1090.72,UPI,2024-02-17
+ORD00120,Amit Jain,North,Office Supplies,6,19054.63,1646.18,Cash,2025-02-25
+ORD00121,Varun Joshi,South,Furniture,3,4408.93,1180.31,Cash,2025-11-30
+ORD00122,Meera Iyer,Central,Furniture,4,23326.92,2647.47,Debit Card,2025-11-13
+ORD00123,Rahul Kapoor,West,Office Supplies,9,8319.79,1334.76,Debit Card,2025-08-24
+ORD00124,Pooja Joshi,West,Office Supplies,8,42342.54,4225.97,Net Banking,2025-05-09
+ORD00125,Ananya Reddy,West,Groceries,6,28953.19,8633.06,Debit Card,2024-01-23
+ORD00126,Suresh Gupta,North,Groceries,1,45575.54,10769.18,Debit Card,2024-08-23
+ORD00127,Asha Jain,East,Furniture,4,31234.11,6854.05,Credit Card,2025-10-05
+ORD00128,Ananya Kapoor,North,Office Supplies,8,2151.54,303.83,Credit Card,2024-04-02
+ORD00129,Pooja Kumar,West,Furniture,4,7041.91,1301.71,Debit Card,2025-06-27
+ORD00130,Ajay Kapoor,East,Furniture,5,45745.42,13085.34,Debit Card,2024-12-12
+ORD00131,Ananya Iyer,North,Furniture,4,43076.96,9953.11,Net Banking,2025-07-24
+ORD00132,Neha Patel,West,Electronics,5,27060.33,4429.68,Debit Card,2025-08-21
+ORD00133,Suresh Yadav,East,Electronics,4,23838.1,4884.11,Cash,2024-12-01
+ORD00134,Asha Reddy,North,Clothing,5,32637.35,2583.87,UPI,2024-02-08
+ORD00135,Pooja Iyer,North,Electronics,4,44419.34,3727.49,Net Banking,2025-01-14
+ORD00136,Nisha Singh,Central,Furniture,7,32918.63,8506.94,Cash,2025-02-21
+ORD00137,Rohan Sharma,East,Furniture,8,22512.45,2454.49,Debit Card,2024-04-11
+ORD00138,Neha Menon,East,Electronics,7,14156.13,4134.32,Net Banking,2024-04-03
+ORD00139,Karthik Joshi,Central,Electronics,1,39446.33,4374.29,Credit Card,2025-08-01
+ORD00140,Karthik Patel,Central,Furniture,10,11189.59,2992.36,Debit Card,2024-05-31
+ORD00141,Asha Sharma,East,Furniture,3,27240.67,6800.05,UPI,2025-11-07
+ORD00142,Rahul Nair,North,Office Supplies,4,29648.22,1599.38,Debit Card,2024-02-23
+ORD00143,Vikram Verma,West,Groceries,2,37410.43,6324.66,Debit Card,2025-06-09
+ORD00144,Varun Patel,West,Groceries,4,47298.07,2877.67,Cash,2024-11-04
+ORD00145,Manoj Joshi,North,Electronics,8,42441.28,6644.96,UPI,2025-05-17
+ORD00146,Manoj Patel,North,Office Supplies,10,7842.52,639.54,Cash,2025-10-10
+ORD00147,Varun Menon,East,Clothing,10,26762.56,4373.77,Cash,2025-03-16
+ORD00148,Ananya Jain,North,Groceries,4,21788.46,5926.96,Net Banking,2024-12-13
+ORD00149,Manoj Singh,West,Electronics,6,21624.82,4676.95,Debit Card,2024-06-05
+ORD00150,Kavya Patel,North,Electronics,2,21877.89,5166.4,Debit Card,2024-05-13
+ORD00151,Nisha Sharma,Central,Groceries,9,16817.48,1354.78,Debit Card,2025-11-12
+ORD00152,Divya Yadav,North,Office Supplies,10,15966.22,1211.84,Cash,2024-08-05
+ORD00153,Vikram Joshi,West,Furniture,2,17830.64,3371.17,UPI,2024-10-12
+ORD00154,Varun Reddy,West,Groceries,10,30871.88,6503.93,UPI,2025-09-15
+ORD00155,Rohan Sharma,South,Office Supplies,5,46116.11,6352.76,Credit Card,2024-05-26
+ORD00156,Varun Joshi,West,Electronics,3,37177.97,10891.38,UPI,2025-06-27
+ORD00157,Karthik Singh,West,Clothing,6,8291.76,1060.59,Debit Card,2025-08-04
+ORD00158,Asha Patel,North,Furniture,3,37844.58,2363.04,UPI,2024-10-05
+ORD00159,Manoj Joshi,West,Clothing,10,22381.19,2647.51,Cash,2024-04-26
+ORD00160,Neha Singh,North,Office Supplies,10,24588.32,5330.33,UPI,2024-08-13
+ORD00161,Suresh Das,North,Electronics,4,15420.26,1585.33,Credit Card,2024-09-18
+ORD00162,Pooja Kumar,North,Electronics,8,37477.2,3520.0,Net Banking,2025-06-29
+ORD00163,Meera Menon,Central,Office Supplies,2,20155.02,4746.72,Net Banking,2024-01-20
+ORD00164,Manoj Kapoor,North,Office Supplies,10,21749.57,3286.48,Net Banking,2024-10-23
+ORD00165,Ananya Singh,North,Office Supplies,3,40165.45,8215.09,Debit Card,2024-03-31
+ORD00166,Divya Yadav,North,Furniture,7,29649.13,5366.21,Net Banking,2024-11-13
+ORD00167,Amit Reddy,East,Furniture,2,25768.92,2023.03,Cash,2024-07-17
+ORD00168,Neha Kumar,South,Furniture,2,7748.99,769.61,Cash,2024-06-05
+ORD00169,Arjun Nair,West,Clothing,10,38113.92,6183.08,Cash,2025-10-20
+ORD00170,Asha Kumar,East,Furniture,8,3880.17,622.97,Debit Card,2024-10-08
+ORD00171,Varun Sharma,East,Groceries,2,15865.19,2585.68,UPI,2025-01-12
+ORD00172,Pooja Patel,North,Groceries,10,25599.86,4241.33,Cash,2024-02-12
+ORD00173,Manoj Kapoor,Central,Furniture,6,30447.79,5338.77,UPI,2025-04-06
+ORD00174,Ananya Jain,East,Electronics,9,32483.29,1942.03,Net Banking,2025-03-25
+ORD00175,Ajay Menon,Central,Furniture,6,18956.17,2288.45,Net Banking,2024-12-12
+ORD00176,Asha Sharma,East,Electronics,6,5178.04,1137.07,Debit Card,2024-09-15
+ORD00177,Asha Yadav,South,Office Supplies,2,29345.61,2504.86,Debit Card,2024-11-13
+ORD00178,Suresh Nair,Central,Electronics,5,28166.64,5939.59,Debit Card,2024-05-10
+ORD00179,Ajay Patel,West,Groceries,6,1402.41,178.41,Credit Card,2024-12-15
+ORD00180,Kavya Reddy,South,Furniture,3,4319.67,1127.9,UPI,2025-06-03
+ORD00181,Nisha Yadav,Central,Electronics,6,43881.44,8974.1,Cash,2025-01-20
+ORD00182,Vikram Nair,South,Groceries,3,36198.56,2205.33,Debit Card,2025-11-23
+ORD00183,Meera Iyer,Central,Office Supplies,8,12083.15,1326.63,Net Banking,2024-07-17
+ORD00184,Neha Joshi,Central,Clothing,8,38587.21,9435.77,Cash,2025-06-24
+ORD00185,Divya Nair,South,Groceries,3,43713.6,2755.92,Net Banking,2025-01-15
+ORD00186,Nisha Kapoor,North,Groceries,2,14610.62,3517.93,Debit Card,2025-04-05
+ORD00187,Ajay Nair,West,Electronics,4,40926.81,11097.61,UPI,2025-02-28
+ORD00188,Priya Singh,Central,Office Supplies,4,19615.22,1380.94,Credit Card,2024-01-29
+ORD00189,Amit Kapoor,North,Office Supplies,3,7311.18,889.92,Net Banking,2025-12-13
+ORD00190,Vikram Jain,West,Clothing,10,759.93,53.05,Debit Card,2024-08-08
+ORD00191,Vikram Menon,Central,Groceries,7,6003.75,732.61,Debit Card,2024-05-04
+ORD00192,Priya Reddy,West,Groceries,8,3608.95,935.34,Net Banking,2025-09-03
+ORD00193,Nisha Sharma,Central,Groceries,4,36067.94,4429.79,UPI,2025-09-21
+ORD00194,Neha Reddy,Central,Clothing,3,33386.38,2383.9,Debit Card,2024-03-10
+ORD00195,Ajay Menon,Central,Groceries,9,1506.55,404.26,UPI,2025-10-12
+ORD00196,Suresh Kumar,East,Electronics,6,39531.74,5384.25,UPI,2025-08-18
+ORD00197,Amit Nair,North,Office Supplies,9,17258.09,3636.26,Net Banking,2025-12-13
+ORD00198,Kavya Joshi,South,Furniture,2,35944.23,10276.5,UPI,2024-10-27
+ORD00199,Karthik Sharma,South,Electronics,6,46701.86,8352.44,Cash,2025-04-29
+ORD00200,Rohan Sharma,South,Office Supplies,6,43175.86,2674.79,Debit Card,2024-10-06
+ORD00201,Ananya Jain,East,Clothing,7,37293.73,10205.78,Net Banking,2024-12-13
+ORD00202,Sneha Iyer,West,Office Supplies,9,13702.67,968.13,Net Banking,2024-03-21
+ORD00203,Divya Das,South,Groceries,5,16399.97,1148.28,Debit Card,2024-11-09
+ORD00204,Manoj Das,West,Furniture,8,17901.58,1084.64,Debit Card,2025-09-21
+ORD00205,Divya Gupta,North,Electronics,7,18483.9,4626.04,Credit Card,2024-02-01
+ORD00206,Vikram Yadav,Central,Clothing,1,6748.39,735.57,Debit Card,2025-01-05
+ORD00207,Suresh Das,North,Groceries,3,34113.57,9797.62,Debit Card,2025-03-30
+ORD00208,Arjun Das,South,Groceries,6,20202.69,4290.85,Credit Card,2024-04-26
+ORD00209,Rahul Verma,South,Clothing,9,19655.88,3742.84,Debit Card,2024-09-23
+ORD00210,Manoj Reddy,Central,Office Supplies,8,10408.83,873.64,UPI,2025-04-07
+ORD00211,Sneha Kapoor,West,Electronics,6,33558.07,7630.61,Cash,2025-07-09
+ORD00212,Pooja Kapoor,East,Furniture,3,39787.97,7049.99,UPI,2024-07-24
+ORD00213,Vikram Reddy,West,Electronics,6,27924.06,3971.58,Cash,2024-05-12
+ORD00214,Asha Kapoor,North,Electronics,5,20208.92,4632.56,Net Banking,2025-06-22
+ORD00215,Divya Jain,West,Groceries,2,6703.68,866.5,UPI,2025-04-05
+ORD00216,Manoj Joshi,Central,Office Supplies,3,43959.03,10772.85,Cash,2024-07-05
+ORD00217,Vikram Singh,Central,Electronics,2,26146.06,3295.22,Credit Card,2024-11-26
+ORD00218,Meera Kumar,Central,Office Supplies,2,12904.96,2694.09,Cash,2024-10-08
+ORD00219,Vikram Joshi,East,Groceries,9,5124.71,1077.45,Cash,2025-08-17
+ORD00220,Vikram Nair,Central,Groceries,6,42205.24,8057.17,UPI,2024-03-24
+ORD00221,Priya Joshi,Central,Office Supplies,4,38464.47,5929.17,UPI,2025-05-24
+ORD00222,Nisha Gupta,East,Clothing,4,40332.06,8923.38,Debit Card,2025-04-09
+ORD00223,Arjun Verma,North,Furniture,8,21073.28,3500.49,Debit Card,2025-09-13
+ORD00224,Vikram Kumar,East,Office Supplies,7,6972.92,994.58,Cash,2024-04-18
+ORD00225,Amit Reddy,West,Electronics,5,22755.0,1939.17,UPI,2024-10-24
+ORD00226,Suresh Yadav,Central,Clothing,4,48152.95,13269.88,Debit Card,2025-08-14
+ORD00227,Amit Reddy,South,Clothing,9,23607.35,6368.53,Net Banking,2024-01-24
+ORD00228,Arjun Singh,Central,Clothing,4,11149.65,1541.15,UPI,2024-10-15
+ORD00229,Kavya Das,West,Office Supplies,9,904.78,69.55,Credit Card,2024-09-27
+ORD00230,Neha Jain,West,Office Supplies,1,20328.79,3914.72,Credit Card,2025-01-06
+ORD00231,Nisha Gupta,North,Clothing,9,22792.54,4272.79,Cash,2025-11-27
+ORD00232,Asha Patel,South,Electronics,7,18973.32,5629.33,Cash,2025-01-09
+ORD00233,Vikram Reddy,Central,Groceries,7,25253.86,1548.71,Credit Card,2025-12-31
+ORD00234,Amit Jain,West,Groceries,8,7872.56,2151.44,Credit Card,2024-12-01
+ORD00235,Asha Kumar,South,Clothing,10,37096.31,4629.94,Debit Card,2025-06-03
+ORD00236,Ajay Menon,West,Groceries,5,24007.18,1300.21,Debit Card,2025-11-20
+ORD00237,Ananya Singh,Central,Office Supplies,1,30047.03,3496.95,Cash,2025-08-14
+ORD00238,Meera Verma,North,Groceries,8,8940.35,1852.94,Cash,2025-01-24
+ORD00239,Vikram Yadav,South,Electronics,10,47436.16,3675.06,UPI,2025-03-27
+ORD00240,Amit Singh,South,Clothing,4,20813.68,5073.19,Net Banking,2024-03-04
+ORD00241,Vikram Menon,South,Groceries,6,49907.08,8463.88,Net Banking,2024-11-17
+ORD00242,Sneha Iyer,Central,Office Supplies,9,18037.21,4383.0,Debit Card,2025-09-16
+ORD00243,Kavya Reddy,South,Office Supplies,9,15275.71,4359.25,Debit Card,2024-10-22
+ORD00244,Karthik Verma,West,Office Supplies,8,17765.76,5035.26,Debit Card,2024-10-21
+ORD00245,Ananya Das,Central,Clothing,7,41009.68,11837.54,Credit Card,2024-10-24
+ORD00246,Priya Gupta,North,Office Supplies,8,32970.62,7808.58,Credit Card,2024-07-25
+ORD00247,Nisha Gupta,Central,Office Supplies,3,5906.72,1389.39,Credit Card,2024-09-05
+ORD00248,Priya Joshi,Central,Furniture,4,3098.31,475.05,Net Banking,2024-04-12
+ORD00249,Vikram Sharma,Central,Furniture,7,32818.19,8866.22,Net Banking,2025-05-03
+ORD00250,Karthik Jain,East,Office Supplies,5,32471.95,8994.22,UPI,2025-10-29
+ORD00251,Varun Reddy,Central,Electronics,3,21185.31,5495.5,UPI,2025-02-10
+ORD00252,Kavya Nair,East,Electronics,1,15270.41,3064.71,Debit Card,2024-10-18
+ORD00253,Manoj Joshi,Central,Groceries,8,44518.37,3719.51,Cash,2025-04-24
+ORD00254,Rohan Reddy,North,Office Supplies,3,36690.4,7780.98,Credit Card,2024-01-15
+ORD00255,Amit Jain,East,Groceries,4,9187.0,2425.7,Net Banking,2025-03-13
+ORD00256,Ajay Kumar,North,Clothing,2,9646.67,821.44,Debit Card,2024-09-11
+ORD00257,Rahul Gupta,West,Furniture,8,37810.95,10908.79,Debit Card,2025-08-19
+ORD00258,Varun Sharma,East,Office Supplies,4,3575.15,284.43,Debit Card,2024-06-12
+ORD00259,Suresh Joshi,Central,Office Supplies,2,32116.21,9158.22,Debit Card,2025-09-21
+ORD00260,Meera Reddy,South,Clothing,3,23021.44,6842.19,Debit Card,2025-03-01
+ORD00261,Nisha Kapoor,West,Groceries,4,38212.05,8409.92,Cash,2024-03-24
+ORD00262,Ajay Iyer,Central,Office Supplies,2,45903.61,3582.88,Cash,2025-06-01
+ORD00263,Karthik Das,Central,Furniture,3,16741.82,3014.96,UPI,2025-11-27
+ORD00264,Karthik Verma,Central,Clothing,2,44995.02,7260.88,UPI,2025-04-09
+ORD00265,Vikram Menon,West,Clothing,10,3357.97,556.06,Debit Card,2024-01-23
+ORD00266,Suresh Gupta,North,Furniture,10,4114.96,641.62,UPI,2025-07-08
+ORD00267,Priya Kapoor,North,Clothing,1,14710.99,1397.48,Credit Card,2025-10-18
+ORD00268,Divya Kumar,West,Clothing,7,19094.45,4213.81,Cash,2024-05-16
+ORD00269,Neha Patel,South,Groceries,7,26677.71,6188.28,Credit Card,2024-01-04
+ORD00270,Rahul Gupta,West,Groceries,7,26830.71,6864.37,Credit Card,2025-04-16
+ORD00271,Neha Nair,East,Furniture,2,2094.76,450.48,Cash,2024-01-17
+ORD00272,Meera Reddy,North,Electronics,10,2162.03,431.21,UPI,2024-09-07
+ORD00273,Priya Singh,West,Furniture,9,11254.83,2993.03,UPI,2024-05-23
+ORD00274,Ajay Gupta,South,Groceries,6,29085.0,7071.57,Debit Card,2024-08-30
+ORD00275,Pooja Kapoor,South,Groceries,4,20971.23,2491.14,Cash,2025-08-28
+ORD00276,Sneha Joshi,West,Groceries,8,2820.76,383.92,Net Banking,2025-06-21
+ORD00277,Amit Verma,West,Clothing,3,15344.48,1472.61,Cash,2025-04-29
+ORD00278,Meera Yadav,South,Office Supplies,3,40385.92,11254.96,Cash,2025-02-26
+ORD00279,Divya Menon,Central,Furniture,7,12521.5,1262.6,UPI,2025-04-05
+ORD00280,Neha Patel,Central,Furniture,1,13788.85,3011.73,Cash,2024-02-10
+ORD00281,Arjun Reddy,Central,Groceries,4,24230.01,6478.34,Debit Card,2024-11-06
+ORD00282,Rahul Reddy,South,Electronics,8,45764.84,10247.05,Credit Card,2025-02-10
+ORD00283,Meera Menon,East,Office Supplies,7,23579.4,5003.08,Debit Card,2024-09-24
+ORD00284,Neha Menon,West,Clothing,2,40239.42,9279.35,Debit Card,2024-07-27
+ORD00285,Neha Kumar,West,Electronics,10,43272.2,10182.52,UPI,2024-09-24
+ORD00286,Nisha Kapoor,Central,Groceries,7,15112.02,1496.81,Credit Card,2025-01-23
+ORD00287,Varun Yadav,South,Clothing,9,32903.09,7278.55,Debit Card,2025-05-15
+ORD00288,Kavya Iyer,South,Office Supplies,3,7427.95,1386.33,Credit Card,2025-07-09
+ORD00289,Priya Menon,North,Electronics,1,38334.77,5868.98,Credit Card,2024-03-10
+ORD00290,Vikram Sharma,South,Groceries,8,18973.43,3879.28,Cash,2025-05-09
+ORD00291,Kavya Sharma,North,Groceries,9,20861.26,1130.3,Debit Card,2025-07-02
+ORD00292,Pooja Sharma,Central,Clothing,3,5797.31,429.46,Credit Card,2024-09-03
+ORD00293,Karthik Das,Central,Office Supplies,6,13732.57,2049.23,Debit Card,2025-02-19
+ORD00294,Manoj Das,South,Furniture,5,34360.06,9001.19,UPI,2024-04-05
+ORD00295,Suresh Singh,West,Groceries,8,3277.69,171.63,Credit Card,2024-03-25
+ORD00296,Kavya Yadav,West,Office Supplies,10,48877.8,14343.68,Cash,2024-02-13
+ORD00297,Meera Reddy,Central,Clothing,5,2804.82,192.37,Debit Card,2025-07-10
+ORD00298,Varun Joshi,North,Furniture,6,1275.08,129.79,Credit Card,2025-12-30
+ORD00299,Suresh Kapoor,North,Office Supplies,3,28415.93,5446.59,Net Banking,2025-11-24
+ORD00300,Nisha Kumar,West,Furniture,2,25289.25,7424.44,UPI,2024-04-10
+ORD00301,Divya Reddy,North,Office Supplies,10,38565.78,11134.5,Net Banking,2024-11-30
+ORD00302,Rahul Joshi,East,Clothing,8,11792.85,2220.12,Net Banking,2025-03-18
+ORD00303,Sneha Joshi,Central,Clothing,2,38722.29,4795.56,Credit Card,2025-12-31
+ORD00304,Arjun Patel,East,Furniture,7,35728.02,7448.41,Net Banking,2024-11-20
+ORD00305,Neha Patel,North,Electronics,5,22514.43,5411.04,UPI,2024-05-15
+ORD00306,Arjun Nair,West,Clothing,9,27959.63,4250.17,UPI,2024-04-01
+ORD00307,Neha Menon,North,Groceries,10,39329.72,10458.93,UPI,2024-10-25
+ORD00308,Divya Singh,North,Groceries,4,28812.04,2662.11,Net Banking,2024-06-22
+ORD00309,Vikram Gupta,East,Office Supplies,8,7723.77,709.06,Debit Card,2025-03-07
+ORD00310,Pooja Iyer,North,Office Supplies,5,47239.0,10875.59,Net Banking,2025-08-31
+ORD00311,Asha Reddy,West,Electronics,3,15580.57,4474.83,Debit Card,2025-09-27
+ORD00312,Suresh Jain,East,Clothing,6,21815.5,5582.23,Cash,2024-05-19
+ORD00313,Pooja Kumar,Central,Furniture,8,16052.07,4673.46,Debit Card,2024-10-25
+ORD00314,Kavya Das,South,Office Supplies,7,14374.86,3542.92,Debit Card,2024-04-26
+ORD00315,Varun Reddy,Central,Groceries,3,34244.78,6421.75,Net Banking,2025-12-26
+ORD00316,Karthik Iyer,East,Electronics,7,33812.39,2867.11,Debit Card,2024-09-04
+ORD00317,Rohan Joshi,South,Clothing,7,4161.27,1238.71,Net Banking,2025-08-19
+ORD00318,Suresh Menon,Central,Clothing,9,2319.88,677.65,Cash,2025-08-31
+ORD00319,Arjun Patel,South,Office Supplies,3,32526.49,1986.53,Net Banking,2024-12-05
+ORD00320,Divya Patel,North,Electronics,5,11489.05,2719.61,Cash,2025-08-17
+ORD00321,Varun Reddy,West,Office Supplies,7,23421.63,5150.16,Cash,2024-06-03
+ORD00322,Neha Sharma,West,Electronics,5,21090.78,6125.44,UPI,2024-05-25
+ORD00323,Neha Gupta,East,Clothing,4,26295.18,3604.41,UPI,2025-03-24
+ORD00324,Manoj Kumar,North,Office Supplies,1,40604.2,3198.45,Debit Card,2025-10-25
+ORD00325,Ananya Joshi,South,Furniture,9,9135.44,822.5,Cash,2025-03-12
+ORD00326,Manoj Reddy,West,Furniture,3,32203.7,5089.27,UPI,2025-09-20
+ORD00327,Karthik Iyer,Central,Clothing,7,720.28,74.69,Debit Card,2025-12-21
+ORD00328,Arjun Das,North,Groceries,3,18606.75,1847.07,UPI,2024-09-25
+ORD00329,Kavya Menon,East,Groceries,7,30759.77,6052.02,Debit Card,2024-12-26
+ORD00330,Manoj Das,South,Office Supplies,10,29713.33,6478.32,Debit Card,2024-04-30
+ORD00331,Meera Gupta,North,Furniture,6,34825.11,6188.64,Net Banking,2025-09-02
+ORD00332,Vikram Das,West,Clothing,3,24590.18,4533.07,Credit Card,2025-07-22
+ORD00333,Sneha Iyer,East,Furniture,3,16071.71,2615.67,UPI,2025-01-02
+ORD00334,Rahul Iyer,South,Furniture,7,48209.54,8502.21,Net Banking,2025-02-22
+ORD00335,Kavya Singh,West,Clothing,3,4592.2,265.04,Credit Card,2024-10-26
+ORD00336,Priya Gupta,South,Groceries,5,8826.34,1450.44,Net Banking,2025-07-16
+ORD00337,Ajay Patel,Central,Electronics,5,38868.09,9943.26,Debit Card,2025-07-09
+ORD00338,Priya Jain,West,Groceries,4,49493.9,3741.94,Credit Card,2024-10-31
+ORD00339,Priya Iyer,East,Office Supplies,2,22233.96,6636.6,Credit Card,2024-08-02
+ORD00340,Varun Verma,East,Groceries,7,8716.09,739.2,Credit Card,2024-07-30
+ORD00341,Priya Das,East,Groceries,5,30044.46,2766.92,Debit Card,2024-10-23
+ORD00342,Varun Gupta,Central,Electronics,3,48157.21,11867.03,UPI,2024-10-10
+ORD00343,Vikram Verma,South,Furniture,3,35714.05,9182.81,Net Banking,2025-05-16
+ORD00344,Vikram Das,East,Clothing,7,22873.59,4767.01,UPI,2025-02-16
+ORD00345,Ajay Verma,East,Office Supplies,8,47537.58,6266.51,UPI,2024-04-05
+ORD00346,Manoj Joshi,East,Electronics,9,20186.94,5895.24,Credit Card,2025-05-21
+ORD00347,Rohan Kumar,East,Office Supplies,9,29107.72,5575.16,Net Banking,2024-12-17
+ORD00348,Priya Sharma,North,Clothing,1,6649.74,1758.28,Net Banking,2025-04-12
+ORD00349,Rahul Singh,South,Furniture,5,8369.38,2370.05,Debit Card,2024-04-05
+ORD00350,Neha Gupta,North,Office Supplies,3,3063.47,632.3,Credit Card,2025-03-15
+ORD00351,Arjun Verma,North,Electronics,4,24101.93,2004.68,Credit Card,2025-06-15
+ORD00352,Manoj Sharma,North,Office Supplies,2,49413.67,7687.7,Credit Card,2025-05-04
+ORD00353,Arjun Reddy,West,Electronics,2,5608.48,795.79,Debit Card,2024-05-20
+ORD00354,Suresh Jain,South,Furniture,2,26760.16,1394.7,Credit Card,2025-03-26
+ORD00355,Neha Verma,South,Furniture,7,30995.76,4977.79,Credit Card,2024-03-29
+ORD00356,Ananya Nair,North,Groceries,7,17901.01,2816.67,Credit Card,2024-09-10
+ORD00357,Rohan Joshi,North,Furniture,9,30249.45,6966.29,Debit Card,2025-12-08
+ORD00358,Rahul Yadav,East,Furniture,9,30542.88,2967.6,Net Banking,2024-10-29
+ORD00359,Priya Jain,South,Clothing,7,6080.81,1063.51,Cash,2024-03-13
+ORD00360,Ajay Kapoor,North,Office Supplies,6,7033.15,1865.22,Cash,2025-03-06
+ORD00361,Neha Menon,South,Clothing,2,1326.13,88.7,Debit Card,2024-08-08
+ORD00362,Priya Kapoor,North,Clothing,9,14681.15,3349.61,Net Banking,2025-03-09
+ORD00363,Suresh Patel,Central,Groceries,10,8057.68,571.28,UPI,2025-06-07
+ORD00364,Karthik Jain,South,Groceries,6,19841.21,4138.35,UPI,2024-11-13
+ORD00365,Divya Verma,South,Electronics,4,4767.53,756.23,Net Banking,2025-09-18
+ORD00366,Asha Sharma,East,Furniture,2,1126.92,95.0,UPI,2024-06-16
+ORD00367,Kavya Kumar,Central,Groceries,5,8764.67,716.36,Debit Card,2024-04-30
+ORD00368,Rahul Kumar,West,Office Supplies,9,3661.66,835.15,Cash,2025-10-04
+ORD00369,Arjun Iyer,West,Groceries,6,3244.24,859.2,Credit Card,2025-01-11
+ORD00370,Sneha Gupta,North,Groceries,2,11806.02,2092.1,UPI,2024-01-13
+ORD00371,Meera Sharma,West,Office Supplies,7,46051.21,4362.9,UPI,2025-07-20
+ORD00372,Divya Reddy,East,Furniture,7,45834.81,5957.78,UPI,2025-08-08
+ORD00373,Neha Patel,Central,Electronics,3,11547.66,2066.38,UPI,2025-02-14
+ORD00374,Arjun Kapoor,West,Office Supplies,5,16701.4,3144.42,UPI,2025-01-12
+ORD00375,Karthik Gupta,Central,Office Supplies,10,12507.91,1776.98,Net Banking,2024-07-19
+ORD00376,Nisha Jain,South,Furniture,1,46653.68,2611.56,Cash,2024-12-20
+ORD00377,Rahul Kumar,North,Clothing,5,5645.48,1030.04,Credit Card,2025-03-05
+ORD00378,Kavya Sharma,South,Office Supplies,2,2673.06,288.34,Cash,2025-02-26
+ORD00379,Neha Iyer,North,Groceries,2,25518.67,5341.16,Net Banking,2024-03-17
+ORD00380,Varun Das,North,Clothing,3,12220.2,1408.35,Debit Card,2025-02-06
+ORD00381,Amit Kumar,West,Office Supplies,4,4197.03,422.55,Cash,2024-04-21
+ORD00382,Vikram Patel,South,Clothing,8,16044.65,1286.53,Debit Card,2024-07-31
+ORD00383,Manoj Gupta,West,Office Supplies,2,4975.83,1253.41,Debit Card,2025-12-22
+ORD00384,Asha Sharma,South,Office Supplies,3,5015.04,561.96,Debit Card,2025-02-09
+ORD00385,Ajay Sharma,East,Office Supplies,3,2038.56,308.02,Net Banking,2025-07-23
+ORD00386,Nisha Reddy,North,Clothing,2,40292.89,3422.81,UPI,2024-03-04
+ORD00387,Meera Nair,South,Clothing,6,34471.12,9803.37,UPI,2025-08-19
+ORD00388,Varun Gupta,North,Electronics,2,10288.64,2176.01,Credit Card,2024-04-04
+ORD00389,Amit Patel,North,Clothing,1,8815.47,1705.54,Net Banking,2025-05-23
+ORD00390,Rahul Singh,West,Furniture,6,11128.45,1077.1,Debit Card,2025-04-01
+ORD00391,Vikram Sharma,Central,Groceries,10,12666.35,1567.79,Net Banking,2025-07-17
+ORD00392,Kavya Sharma,North,Office Supplies,7,7293.18,728.33,Cash,2024-09-12
+ORD00393,Nisha Jain,North,Clothing,6,24244.38,5948.57,Debit Card,2025-08-02
+ORD00394,Ajay Kumar,West,Office Supplies,3,1790.12,356.73,UPI,2024-10-14
+ORD00395,Priya Jain,West,Groceries,6,38458.69,11533.82,Credit Card,2024-04-12
+ORD00396,Meera Joshi,South,Office Supplies,9,40906.12,11425.69,UPI,2024-08-12
+ORD00397,Varun Yadav,West,Office Supplies,3,9216.97,1826.16,Debit Card,2025-08-28
+ORD00398,Rahul Verma,East,Groceries,10,7534.06,2162.97,Net Banking,2025-07-09
+ORD00399,Pooja Nair,West,Electronics,2,3280.31,657.43,UPI,2025-06-23
+ORD00400,Kavya Sharma,East,Groceries,4,40419.05,5464.24,Credit Card,2024-11-27
+ORD00401,Priya Sharma,South,Groceries,3,38831.14,10159.01,Debit Card,2024-03-15
+ORD00402,Neha Verma,West,Groceries,2,17159.77,2241.94,Credit Card,2025-03-23
+ORD00403,Kavya Joshi,East,Furniture,9,34831.24,9829.77,Debit Card,2024-08-16
+ORD00404,Varun Yadav,South,Clothing,5,36832.75,4553.61,Credit Card,2024-01-02
+ORD00405,Varun Singh,Central,Electronics,3,30318.24,8496.98,Cash,2024-08-14
+ORD00406,Varun Patel,West,Furniture,6,37394.49,4094.66,Debit Card,2024-06-20
+ORD00407,Arjun Yadav,East,Clothing,1,13628.02,1531.59,UPI,2024-12-24
+ORD00408,Rohan Jain,North,Electronics,1,19603.89,4570.57,Credit Card,2025-02-27
+ORD00409,Kavya Kapoor,West,Office Supplies,9,19079.7,4907.33,Cash,2025-10-28
+ORD00410,Meera Nair,West,Electronics,1,15097.98,1957.89,UPI,2024-03-16
+ORD00411,Amit Nair,West,Furniture,2,27578.79,7571.23,UPI,2024-12-12
+ORD00412,Asha Das,West,Electronics,7,47150.89,4302.49,Net Banking,2024-06-09
+ORD00413,Priya Patel,East,Furniture,4,20759.35,3913.72,Cash,2024-09-28
+ORD00414,Pooja Gupta,South,Electronics,1,19948.66,3738.69,Net Banking,2024-06-06
+ORD00415,Priya Kumar,North,Clothing,2,15080.2,3249.86,Cash,2025-05-06
+ORD00416,Karthik Patel,North,Furniture,3,32090.44,9443.07,Net Banking,2024-04-28
+ORD00417,Pooja Jain,West,Clothing,8,44796.44,5207.64,Cash,2025-01-31
+ORD00418,Sneha Kumar,West,Office Supplies,3,22565.88,2613.67,Net Banking,2024-09-26
+ORD00419,Meera Yadav,East,Groceries,1,7980.97,1788.68,UPI,2024-03-28
+ORD00420,Neha Jain,Central,Clothing,10,11761.88,767.41,Net Banking,2025-06-19
+ORD00421,Divya Menon,West,Groceries,4,24074.98,1678.96,UPI,2025-05-29
+ORD00422,Varun Kapoor,Central,Groceries,10,7798.66,2240.66,Net Banking,2024-06-26
+ORD00423,Sneha Reddy,South,Furniture,1,21457.06,6374.25,Net Banking,2024-07-25
+ORD00424,Vikram Yadav,Central,Office Supplies,6,45584.82,12697.35,UPI,2024-03-30
+ORD00425,Suresh Menon,West,Groceries,6,42902.9,7719.18,UPI,2025-12-18
+ORD00426,Asha Das,Central,Clothing,2,21014.9,1829.35,Cash,2025-08-19
+ORD00427,Ananya Kapoor,North,Groceries,2,39394.41,10513.14,Debit Card,2025-02-24
+ORD00428,Rohan Singh,West,Groceries,10,23915.81,2225.36,Net Banking,2024-05-27
+ORD00429,Asha Das,West,Electronics,7,44533.92,5917.38,Credit Card,2024-02-20
+ORD00430,Kavya Kapoor,East,Office Supplies,1,17224.37,4278.76,Debit Card,2024-10-14
+ORD00431,Kavya Yadav,North,Furniture,3,15373.78,3627.15,Debit Card,2024-10-02
+ORD00432,Divya Das,North,Furniture,8,10963.83,2806.66,Net Banking,2025-06-12
+ORD00433,Neha Yadav,North,Groceries,3,3748.04,852.28,Net Banking,2024-05-18
+ORD00434,Ajay Kapoor,Central,Electronics,3,10041.79,2593.12,UPI,2024-09-12
+ORD00435,Priya Iyer,North,Office Supplies,4,14061.89,3598.11,Cash,2025-02-10
+ORD00436,Ananya Joshi,North,Furniture,6,24694.94,3988.87,Net Banking,2025-08-23
+ORD00437,Nisha Kumar,East,Furniture,5,37573.58,8349.32,Debit Card,2024-01-29
+ORD00438,Suresh Sharma,South,Groceries,4,42927.0,9093.87,Credit Card,2024-10-02
+ORD00439,Divya Menon,North,Electronics,8,45620.01,9664.27,Cash,2024-01-09
+ORD00440,Meera Gupta,Central,Office Supplies,5,21478.44,3095.45,Debit Card,2025-04-15
+ORD00441,Rohan Reddy,West,Office Supplies,9,41303.39,6166.11,UPI,2024-01-08
+ORD00442,Ajay Joshi,East,Groceries,10,30647.98,3819.32,UPI,2025-05-08
+ORD00443,Arjun Kumar,East,Office Supplies,5,13426.77,3058.26,Debit Card,2024-07-11
+ORD00444,Vikram Menon,South,Electronics,10,20502.87,2663.25,Credit Card,2024-01-27
+ORD00445,Kavya Gupta,East,Clothing,7,19719.61,1160.1,Cash,2024-07-13
+ORD00446,Amit Verma,South,Groceries,8,45373.06,9889.84,Cash,2024-11-03
+ORD00447,Sneha Yadav,Central,Furniture,5,5331.35,437.1,Debit Card,2025-07-26
+ORD00448,Sneha Joshi,East,Electronics,4,18086.53,4269.37,Debit Card,2025-03-06
+ORD00449,Amit Kumar,East,Groceries,5,23456.15,1863.48,UPI,2025-10-11
+ORD00450,Varun Das,Central,Electronics,8,44526.59,7797.47,Net Banking,2025-06-26
+ORD00451,Pooja Singh,North,Furniture,3,49621.22,6731.99,Cash,2025-04-13
+ORD00452,Vikram Kumar,South,Electronics,8,16965.16,5032.89,Debit Card,2025-10-11
+ORD00453,Priya Sharma,West,Office Supplies,4,38179.07,3518.26,Credit Card,2025-05-16
+ORD00454,Arjun Nair,Central,Clothing,7,20467.98,5962.98,Net Banking,2024-01-05
+ORD00455,Priya Menon,South,Office Supplies,1,44654.32,10681.85,Cash,2024-07-14
+ORD00456,Rahul Joshi,North,Furniture,4,34829.47,4739.85,Credit Card,2024-04-15
+ORD00457,Suresh Menon,Central,Office Supplies,3,3731.71,229.24,Debit Card,2025-04-11
+ORD00458,Ajay Das,Central,Office Supplies,7,44454.72,13286.1,Debit Card,2025-05-16
+ORD00459,Neha Jain,South,Furniture,7,1446.67,153.46,Credit Card,2024-08-04
+ORD00460,Rahul Das,Central,Furniture,2,18646.28,3964.85,UPI,2025-01-19
+ORD00461,Rohan Jain,Central,Groceries,1,29899.24,1853.46,UPI,2025-10-31
+ORD00462,Rahul Sharma,North,Clothing,8,19322.56,3609.85,Net Banking,2025-12-19
+ORD00463,Vikram Reddy,North,Office Supplies,7,33252.4,7169.91,Debit Card,2025-09-29
+ORD00464,Asha Verma,South,Clothing,2,25823.45,5278.95,Debit Card,2024-04-26
+ORD00465,Ananya Iyer,South,Groceries,4,39008.97,10059.43,Credit Card,2025-01-01
+ORD00466,Divya Gupta,South,Electronics,9,25069.56,2555.18,Net Banking,2024-12-04
+ORD00467,Meera Sharma,North,Electronics,2,41843.99,9090.84,Credit Card,2024-04-02
+ORD00468,Ajay Patel,North,Office Supplies,4,23109.19,6801.56,Debit Card,2025-04-20
+ORD00469,Priya Patel,South,Electronics,5,18330.63,4017.92,Net Banking,2024-04-28
+ORD00470,Ananya Yadav,North,Electronics,3,33336.07,3087.86,Debit Card,2025-03-24
+ORD00471,Asha Gupta,North,Office Supplies,6,9552.04,1434.66,Net Banking,2024-10-05
+ORD00472,Suresh Verma,West,Clothing,3,6096.3,1365.83,UPI,2024-06-12
+ORD00473,Ananya Singh,Central,Clothing,10,34080.46,3248.38,Net Banking,2025-01-02
+ORD00474,Asha Sharma,South,Clothing,8,6090.41,930.74,UPI,2024-03-05
+ORD00475,Rohan Joshi,East,Electronics,9,38492.67,7473.82,Cash,2024-08-17
+ORD00476,Amit Menon,Central,Groceries,2,21925.97,5079.44,Net Banking,2024-12-20
+ORD00477,Suresh Nair,Central,Groceries,1,1076.42,305.27,Cash,2025-04-25
+ORD00478,Kavya Yadav,South,Electronics,8,16371.37,2172.87,Debit Card,2024-02-21
+ORD00479,Ajay Reddy,Central,Clothing,7,40946.61,2854.29,Net Banking,2025-08-09
+ORD00480,Manoj Patel,West,Clothing,6,6375.99,1111.61,UPI,2024-04-15
+ORD00481,Suresh Singh,North,Groceries,9,508.4,36.97,Cash,2025-09-25
+ORD00482,Pooja Kapoor,Central,Groceries,4,32902.5,5397.72,Debit Card,2025-01-07
+ORD00483,Priya Yadav,South,Clothing,6,28227.47,5784.92,Net Banking,2025-11-03
+ORD00484,Neha Verma,West,Electronics,2,38086.34,4015.7,Debit Card,2024-12-29
+ORD00485,Pooja Menon,Central,Office Supplies,2,2766.02,251.82,Credit Card,2025-02-23
+ORD00486,Ananya Gupta,Central,Furniture,4,6476.92,1703.74,Credit Card,2025-04-13
+ORD00487,Karthik Verma,East,Electronics,7,2801.77,583.64,Cash,2024-05-06
+ORD00488,Manoj Iyer,Central,Groceries,3,48210.81,2462.82,UPI,2025-07-20
+ORD00489,Divya Yadav,Central,Clothing,9,39163.53,10869.66,Cash,2024-06-26
+ORD00490,Vikram Patel,West,Groceries,10,44193.45,7779.26,Net Banking,2025-03-04
+ORD00491,Asha Kapoor,South,Office Supplies,7,48197.88,14103.8,Net Banking,2024-05-16
+ORD00492,Vikram Singh,Central,Groceries,5,42232.18,7895.37,Debit Card,2025-12-29
+ORD00493,Nisha Joshi,South,Furniture,4,31396.3,3850.6,Debit Card,2025-11-19
+ORD00494,Vikram Verma,South,Groceries,9,34868.44,4553.66,UPI,2024-12-26
+ORD00495,Nisha Iyer,Central,Groceries,7,33875.05,9263.69,Cash,2024-10-19
+ORD00496,Divya Jain,North,Groceries,2,1750.97,151.16,UPI,2024-07-23
+ORD00497,Rohan Jain,South,Office Supplies,5,7748.21,507.57,Debit Card,2024-07-27
+ORD00498,Nisha Sharma,East,Clothing,2,30997.39,6784.76,Cash,2024-08-17
+ORD00499,Nisha Singh,South,Groceries,5,34800.34,2148.75,Net Banking,2025-01-31
+ORD00500,Divya Jain,East,Groceries,1,1141.78,128.83,Cash,2025-03-29
+ORD00501,Meera Kapoor,East,Groceries,9,37053.28,3672.62,Credit Card,2024-10-28
+ORD00502,Manoj Nair,North,Furniture,3,36886.43,2944.96,UPI,2025-03-14
+ORD00503,Rohan Menon,East,Furniture,3,29407.31,3345.2,Debit Card,2025-04-22
+ORD00504,Vikram Sharma,South,Office Supplies,10,3017.34,854.2,Cash,2025-11-08
+ORD00505,Pooja Iyer,Central,Groceries,6,4107.6,932.1,Cash,2024-08-13
+ORD00506,Sneha Menon,North,Groceries,3,21088.6,3885.76,UPI,2024-12-23
+ORD00507,Meera Kapoor,South,Office Supplies,6,18359.49,1920.61,Cash,2025-06-27
+ORD00508,Kavya Menon,North,Electronics,6,22560.53,6229.51,Cash,2025-09-28
+ORD00509,Meera Sharma,East,Clothing,2,19600.86,3627.32,Debit Card,2024-01-26
+ORD00510,Ajay Yadav,East,Groceries,9,22555.07,1375.02,Credit Card,2024-11-24
+ORD00511,Ajay Patel,North,Furniture,9,26893.69,5559.82,Credit Card,2025-11-17
+ORD00512,Karthik Yadav,West,Electronics,4,27118.83,6120.33,Net Banking,2025-10-24
+ORD00513,Arjun Verma,South,Electronics,8,35984.98,2140.08,UPI,2024-02-25
+ORD00514,Sneha Jain,East,Groceries,2,28960.63,3096.22,Debit Card,2025-02-21
+ORD00515,Suresh Iyer,West,Clothing,6,1336.1,291.7,Cash,2024-01-07
+ORD00516,Asha Patel,Central,Electronics,2,18206.16,3198.99,Debit Card,2025-12-03
+ORD00517,Pooja Das,North,Office Supplies,8,19379.97,4952.18,UPI,2025-04-30
+ORD00518,Sneha Menon,South,Furniture,7,39940.14,10478.97,Debit Card,2025-10-11
+ORD00519,Vikram Gupta,East,Electronics,9,43800.96,3738.13,UPI,2024-01-06
+ORD00520,Varun Das,West,Groceries,9,47375.48,5977.5,Debit Card,2024-08-04
+ORD00521,Divya Kapoor,Central,Furniture,3,9607.64,1962.08,Debit Card,2024-07-17
+ORD00522,Ananya Nair,Central,Electronics,9,23332.63,4372.91,Debit Card,2025-11-18
+ORD00523,Arjun Gupta,North,Furniture,10,24615.93,3266.85,Credit Card,2025-11-18
+ORD00524,Meera Patel,East,Groceries,2,45055.87,5832.32,Net Banking,2024-12-02
+ORD00525,Asha Joshi,East,Groceries,3,28494.82,4021.28,Debit Card,2025-03-14
+ORD00526,Sneha Sharma,East,Furniture,4,35753.86,7515.81,Debit Card,2025-01-03
+ORD00527,Vikram Joshi,East,Clothing,8,22545.22,5494.08,Net Banking,2025-07-18
+ORD00528,Ananya Nair,Central,Electronics,5,43006.33,3655.56,Cash,2024-07-20
+ORD00529,Rohan Verma,North,Electronics,1,42554.57,8847.38,Cash,2025-08-15
+ORD00530,Suresh Jain,Central,Furniture,1,27803.9,5167.84,Cash,2025-04-28
+ORD00531,Vikram Kumar,West,Furniture,10,36794.73,4516.55,Net Banking,2025-05-28
+ORD00532,Ajay Patel,West,Office Supplies,9,1024.29,112.39,Cash,2025-12-01
+ORD00533,Sneha Jain,Central,Furniture,8,8381.51,1605.81,Cash,2025-11-06
+ORD00534,Vikram Verma,West,Office Supplies,1,11331.55,1948.01,UPI,2024-09-27
+ORD00535,Neha Reddy,North,Furniture,9,45432.44,6374.75,Net Banking,2025-04-10
+ORD00536,Priya Sharma,East,Electronics,9,31861.57,3771.58,Debit Card,2025-08-15
+ORD00537,Nisha Das,South,Clothing,7,18582.19,3964.22,UPI,2025-06-13
+ORD00538,Rohan Singh,South,Groceries,7,17968.45,4796.32,Net Banking,2025-05-08
+ORD00539,Asha Sharma,Central,Furniture,8,8697.49,602.49,Debit Card,2024-08-04
+ORD00540,Vikram Nair,South,Office Supplies,10,36006.48,2865.49,Credit Card,2025-02-28
+ORD00541,Amit Verma,North,Clothing,8,24211.55,4786.57,Net Banking,2024-01-23
+ORD00542,Meera Sharma,South,Groceries,10,8475.89,1757.77,UPI,2025-08-09
+ORD00543,Vikram Sharma,South,Office Supplies,3,26073.71,3946.62,Cash,2025-10-14
+ORD00544,Rahul Kapoor,East,Electronics,4,22735.57,6779.61,Net Banking,2024-06-23
+ORD00545,Meera Yadav,West,Groceries,3,39833.5,10162.06,Credit Card,2025-09-30
+ORD00546,Ajay Gupta,South,Office Supplies,8,30028.4,2018.23,Net Banking,2025-01-29
+ORD00547,Vikram Patel,North,Furniture,9,43049.79,7580.63,Net Banking,2024-06-02
+ORD00548,Asha Patel,South,Clothing,10,30190.78,8134.55,Cash,2025-05-30
+ORD00549,Ananya Patel,West,Furniture,10,27194.66,1367.89,Net Banking,2025-06-18
+ORD00550,Divya Kumar,North,Groceries,7,11859.57,2971.71,Net Banking,2024-12-24
+ORD00551,Varun Jain,Central,Electronics,7,7127.21,1206.53,Credit Card,2024-03-26
+ORD00552,Pooja Das,Central,Clothing,5,9856.54,2240.27,UPI,2025-08-14
+ORD00553,Ajay Patel,Central,Electronics,7,32900.03,7301.89,Debit Card,2025-02-22
+ORD00554,Neha Patel,South,Clothing,10,13054.82,3443.13,Net Banking,2025-08-01
+ORD00555,Neha Das,East,Clothing,4,20954.79,5153.77,Net Banking,2024-07-02
+ORD00556,Neha Menon,Central,Clothing,5,49431.16,9610.05,Net Banking,2024-05-21
+ORD00557,Ananya Verma,South,Clothing,3,5463.79,967.56,Debit Card,2025-07-17
+ORD00558,Asha Verma,North,Furniture,7,48246.23,2476.12,UPI,2024-05-28
+ORD00559,Kavya Kapoor,Central,Clothing,2,3671.98,387.18,UPI,2025-09-15
+ORD00560,Priya Verma,West,Clothing,10,32980.67,4011.02,Cash,2024-02-28
+ORD00561,Sneha Joshi,West,Clothing,1,10484.51,2246.0,Cash,2024-10-19
+ORD00562,Karthik Sharma,Central,Groceries,9,35073.26,7147.84,UPI,2025-01-03
+ORD00563,Meera Joshi,North,Furniture,2,49842.45,12207.32,Debit Card,2025-11-16
+ORD00564,Suresh Singh,Central,Furniture,9,1260.64,284.79,UPI,2025-07-16
+ORD00565,Pooja Verma,Central,Groceries,6,17700.02,4493.66,Credit Card,2025-09-12
+ORD00566,Karthik Iyer,West,Groceries,1,13424.82,2037.67,UPI,2025-07-26
+ORD00567,Arjun Menon,East,Office Supplies,2,40245.64,11638.13,Cash,2025-08-11
+ORD00568,Rohan Verma,West,Clothing,10,24439.68,2708.36,Debit Card,2025-04-14
+ORD00569,Manoj Kapoor,Central,Electronics,8,6255.28,418.41,Credit Card,2025-11-24
+ORD00570,Meera Jain,East,Clothing,6,26066.96,1366.71,Debit Card,2024-09-11
+ORD00571,Pooja Patel,West,Office Supplies,2,27950.3,2644.7,Debit Card,2024-12-28
+ORD00572,Karthik Kapoor,Central,Office Supplies,3,47382.35,10460.92,Credit Card,2025-05-25
+ORD00573,Karthik Reddy,South,Office Supplies,4,11845.77,3064.92,Cash,2024-12-30
+ORD00574,Vikram Jain,North,Electronics,2,33952.7,7328.89,Cash,2024-01-07
+ORD00575,Nisha Sharma,West,Office Supplies,10,16113.14,4423.55,Cash,2024-10-08
+ORD00576,Kavya Nair,Central,Office Supplies,7,11493.59,2231.67,UPI,2025-06-22
+ORD00577,Divya Iyer,Central,Electronics,9,17690.8,4689.83,Credit Card,2025-04-13
+ORD00578,Ananya Verma,Central,Clothing,6,34615.92,1833.09,Credit Card,2025-01-23
+ORD00579,Varun Patel,East,Office Supplies,10,43161.18,4177.49,Debit Card,2024-08-30
+ORD00580,Rohan Iyer,Central,Office Supplies,6,9603.73,1498.04,Net Banking,2025-12-18
+ORD00581,Neha Kumar,West,Office Supplies,8,9404.52,778.55,Cash,2025-12-03
+ORD00582,Meera Yadav,North,Office Supplies,4,27989.33,7391.34,Credit Card,2024-05-29
+ORD00583,Vikram Iyer,North,Furniture,7,25230.09,7541.03,Cash,2025-06-30
+ORD00584,Amit Jain,West,Office Supplies,5,28325.85,5437.39,Net Banking,2024-04-11
+ORD00585,Sneha Sharma,South,Office Supplies,8,42029.1,3113.33,Debit Card,2024-09-23
+ORD00586,Neha Kumar,Central,Groceries,5,17534.94,2681.8,Debit Card,2025-11-26
+ORD00587,Asha Reddy,Central,Groceries,9,9139.67,2239.93,Debit Card,2024-11-28
+ORD00588,Ajay Iyer,West,Electronics,7,30876.36,5123.56,Credit Card,2024-06-20
+ORD00589,Amit Singh,Central,Groceries,7,42520.59,2884.43,Credit Card,2024-12-17
+ORD00590,Meera Kumar,East,Office Supplies,5,30466.56,4535.37,Net Banking,2025-01-06
+ORD00591,Varun Menon,West,Clothing,3,9602.37,535.57,Credit Card,2025-11-08
+ORD00592,Rohan Verma,North,Furniture,3,20153.76,1489.13,Net Banking,2025-07-15
+ORD00593,Priya Sharma,West,Groceries,2,5644.46,1154.44,UPI,2025-11-01
+ORD00594,Suresh Gupta,South,Furniture,5,22436.44,1830.88,Cash,2024-06-23
+ORD00595,Rahul Sharma,East,Office Supplies,8,23626.08,6325.28,Debit Card,2025-07-15
+ORD00596,Manoj Nair,Central,Furniture,10,30080.42,6249.56,Cash,2025-03-21
+ORD00597,Ajay Joshi,Central,Office Supplies,6,24341.76,2599.26,UPI,2025-03-28
+ORD00598,Pooja Kumar,West,Office Supplies,3,15526.86,776.7,Credit Card,2024-12-18
+ORD00599,Pooja Iyer,Central,Electronics,8,47374.4,8018.91,UPI,2025-03-16
+ORD00600,Pooja Das,South,Electronics,9,18995.37,2905.04,Cash,2025-03-23
+ORD00601,Suresh Reddy,South,Clothing,7,11419.33,797.1,Credit Card,2025-06-13
+ORD00602,Asha Jain,East,Office Supplies,9,40536.03,6211.17,UPI,2024-07-05
+ORD00603,Vikram Gupta,North,Clothing,10,22911.98,5157.9,Net Banking,2024-07-11
+ORD00604,Amit Sharma,South,Electronics,9,1595.48,467.61,Debit Card,2024-10-02
+ORD00605,Vikram Verma,West,Electronics,4,4964.75,266.51,Credit Card,2024-12-16
+ORD00606,Divya Gupta,West,Office Supplies,8,34998.27,2027.6,UPI,2024-05-29
+ORD00607,Priya Gupta,West,Electronics,9,23772.27,2330.83,Debit Card,2025-01-25
+ORD00608,Rahul Patel,South,Clothing,8,12734.53,3802.96,Credit Card,2025-04-16
+ORD00609,Ananya Menon,South,Clothing,7,34231.39,4382.55,Debit Card,2024-06-11
+ORD00610,Priya Verma,Central,Groceries,2,13038.98,2733.36,Credit Card,2025-01-04
+ORD00611,Priya Yadav,South,Electronics,4,31828.99,4173.68,Credit Card,2024-10-09
+ORD00612,Varun Patel,West,Furniture,1,48457.33,9462.23,Net Banking,2025-12-05
+ORD00613,Asha Nair,East,Electronics,4,8306.07,605.1,Cash,2024-12-12
+ORD00614,Priya Sharma,East,Furniture,9,39677.58,3232.01,Credit Card,2024-11-20
+ORD00615,Nisha Jain,East,Clothing,4,1556.97,224.89,Credit Card,2024-09-13
+ORD00616,Priya Iyer,West,Groceries,5,27365.34,4721.15,Cash,2024-07-10
+ORD00617,Nisha Kumar,East,Clothing,5,43449.26,8675.51,Cash,2024-06-13
+ORD00618,Arjun Menon,South,Clothing,5,41061.22,7612.81,Net Banking,2024-01-01
+ORD00619,Ajay Singh,South,Electronics,10,42913.05,10470.96,Credit Card,2024-11-24
+ORD00620,Arjun Joshi,Central,Clothing,4,26441.45,4611.05,Cash,2024-06-06
+ORD00621,Asha Gupta,East,Clothing,6,5967.97,1079.01,UPI,2024-02-14
+ORD00622,Vikram Nair,North,Furniture,2,24525.83,1831.79,Cash,2025-10-19
+ORD00623,Suresh Joshi,West,Groceries,10,35215.04,4013.97,Debit Card,2024-08-14
+ORD00624,Asha Verma,North,Electronics,4,32959.59,9297.93,UPI,2025-04-24
+ORD00625,Priya Kumar,Central,Clothing,6,39815.35,2571.08,Cash,2024-09-29
+ORD00626,Ajay Sharma,North,Office Supplies,2,47257.87,13711.71,UPI,2024-04-13
+ORD00627,Meera Menon,West,Furniture,4,26546.51,2978.27,Credit Card,2025-07-25
+ORD00628,Nisha Singh,North,Groceries,6,33887.38,7646.27,Net Banking,2024-04-16
+ORD00629,Sneha Jain,South,Groceries,7,25482.29,5462.97,Cash,2025-09-06
+ORD00630,Manoj Kapoor,East,Office Supplies,9,49577.42,6502.75,Debit Card,2025-02-26
+ORD00631,Divya Yadav,East,Groceries,4,28375.66,2936.37,Cash,2024-09-17
+ORD00632,Neha Iyer,West,Clothing,1,36452.51,10780.43,Cash,2024-01-17
+ORD00633,Ajay Nair,East,Electronics,5,49227.52,5105.17,Debit Card,2024-01-23
+ORD00634,Rohan Kapoor,Central,Groceries,9,28748.08,5545.59,UPI,2024-02-08
+ORD00635,Manoj Kumar,South,Furniture,5,18670.6,3650.83,Credit Card,2024-09-19
+ORD00636,Pooja Patel,Central,Clothing,10,45935.15,10728.91,Debit Card,2025-05-09
+ORD00637,Sneha Iyer,Central,Electronics,10,32291.6,1916.28,Cash,2025-01-25
+ORD00638,Arjun Jain,North,Office Supplies,6,44049.73,6985.23,UPI,2024-08-20
+ORD00639,Asha Kapoor,North,Clothing,1,15586.78,939.81,Cash,2025-08-01
+ORD00640,Vikram Kumar,Central,Furniture,3,3000.73,698.85,Net Banking,2025-04-01
+ORD00641,Asha Das,Central,Electronics,4,21880.82,5395.64,Credit Card,2024-05-15
+ORD00642,Amit Patel,West,Groceries,1,27633.54,3195.53,Net Banking,2025-05-28
+ORD00643,Divya Jain,South,Furniture,8,28185.16,4846.87,Cash,2024-07-19
+ORD00644,Nisha Das,Central,Furniture,4,4046.38,988.1,Debit Card,2025-12-02
+ORD00645,Varun Patel,North,Clothing,7,18580.75,1813.9,Debit Card,2025-08-31
+ORD00646,Rahul Jain,East,Furniture,6,31002.94,9224.61,Net Banking,2025-09-30
+ORD00647,Vikram Iyer,North,Furniture,4,34425.28,3063.77,UPI,2024-04-25
+ORD00648,Priya Reddy,Central,Furniture,5,1179.8,263.62,UPI,2024-11-08
+ORD00649,Manoj Iyer,North,Office Supplies,4,37130.64,3823.3,Cash,2025-06-19
+ORD00650,Rohan Menon,West,Groceries,3,34906.02,7576.88,Net Banking,2025-08-19
+ORD00651,Ajay Sharma,East,Furniture,1,14558.67,3600.32,Cash,2024-10-04
+ORD00652,Priya Iyer,North,Electronics,7,33188.45,7160.26,Debit Card,2024-04-20
+ORD00653,Rahul Gupta,West,Furniture,7,25672.75,5838.55,Debit Card,2025-05-11
+ORD00654,Asha Menon,North,Furniture,4,25282.22,4158.84,UPI,2024-02-10
+ORD00655,Meera Kapoor,Central,Office Supplies,6,24751.68,5843.81,UPI,2024-12-21
+ORD00656,Neha Kumar,East,Furniture,9,14155.97,927.25,Debit Card,2025-01-31
+ORD00657,Rahul Menon,East,Furniture,3,17418.41,2581.61,Credit Card,2024-03-30
+ORD00658,Suresh Menon,Central,Furniture,7,12397.86,1093.33,Debit Card,2025-09-11
+ORD00659,Amit Iyer,Central,Furniture,4,32797.4,6403.94,Credit Card,2024-05-21
+ORD00660,Pooja Verma,Central,Furniture,7,49786.45,14634.44,Credit Card,2025-11-02
+ORD00661,Varun Kapoor,South,Office Supplies,2,28088.34,8065.58,UPI,2024-07-07
+ORD00662,Amit Yadav,South,Electronics,6,44066.53,6764.65,Net Banking,2024-11-06
+ORD00663,Manoj Verma,East,Furniture,4,5785.19,556.46,Cash,2025-09-23
+ORD00664,Rohan Das,Central,Groceries,4,30019.85,3233.98,UPI,2025-01-02
+ORD00665,Arjun Verma,West,Furniture,9,42383.84,7086.19,Debit Card,2024-07-07
+ORD00666,Suresh Iyer,West,Furniture,3,10066.36,584.43,UPI,2024-10-03
+ORD00667,Divya Reddy,South,Furniture,2,9265.37,2674.68,Net Banking,2025-09-23
+ORD00668,Kavya Verma,East,Clothing,4,21664.01,5287.18,Cash,2025-01-24
+ORD00669,Amit Singh,Central,Groceries,10,27039.89,5687.8,UPI,2025-06-17
+ORD00670,Ananya Iyer,West,Electronics,4,26175.78,3897.65,UPI,2025-07-25
+ORD00671,Suresh Menon,North,Furniture,5,22257.92,6034.11,Debit Card,2025-04-17
+ORD00672,Sneha Singh,East,Groceries,1,34652.67,9561.33,Net Banking,2025-10-23
+ORD00673,Manoj Patel,Central,Electronics,3,39047.19,11107.39,Cash,2024-05-18
+ORD00674,Suresh Singh,East,Clothing,1,9354.49,1848.25,Credit Card,2025-04-10
+ORD00675,Arjun Gupta,East,Furniture,2,5013.97,1135.95,Debit Card,2024-03-28
+ORD00676,Ajay Verma,West,Groceries,10,47512.82,6873.66,Net Banking,2024-02-14
+ORD00677,Sneha Kapoor,East,Groceries,3,8525.14,734.46,UPI,2025-03-05
+ORD00678,Pooja Gupta,West,Office Supplies,3,6318.92,523.79,Credit Card,2024-01-04
+ORD00679,Asha Jain,East,Electronics,8,25132.57,4389.67,UPI,2025-09-14
+ORD00680,Kavya Reddy,South,Groceries,8,22960.05,3684.37,Cash,2025-09-06
+ORD00681,Rahul Reddy,Central,Office Supplies,10,31617.45,8063.41,Credit Card,2024-02-20
+ORD00682,Sneha Nair,North,Office Supplies,1,7696.03,447.2,Cash,2025-09-09
+ORD00683,Pooja Kumar,North,Electronics,2,21139.37,1998.98,Debit Card,2025-09-17
+ORD00684,Asha Das,Central,Furniture,8,37592.07,5264.66,UPI,2024-04-05
+ORD00685,Pooja Kumar,East,Clothing,2,38042.88,9922.63,UPI,2024-10-26
+ORD00686,Kavya Nair,North,Office Supplies,6,26589.11,4816.92,Credit Card,2025-09-18
+ORD00687,Priya Patel,Central,Groceries,2,24441.32,5429.97,Debit Card,2025-03-13
+ORD00688,Asha Yadav,East,Office Supplies,9,28969.56,5962.26,Credit Card,2025-09-21
+ORD00689,Varun Iyer,Central,Clothing,8,40495.03,10970.75,Credit Card,2025-12-26
+ORD00690,Pooja Reddy,North,Electronics,1,23511.84,5858.75,Credit Card,2025-09-22
+ORD00691,Divya Singh,North,Office Supplies,6,28240.57,5912.89,UPI,2025-10-17
+ORD00692,Karthik Verma,East,Office Supplies,2,15734.74,2779.89,Debit Card,2024-01-07
+ORD00693,Ananya Joshi,East,Office Supplies,7,36357.63,7416.9,UPI,2024-06-28
+ORD00694,Karthik Kumar,East,Clothing,8,39964.09,8448.93,Net Banking,2024-06-08
+ORD00695,Manoj Kapoor,Central,Office Supplies,8,39307.46,6033.23,UPI,2025-06-17
+ORD00696,Pooja Das,East,Groceries,9,1426.56,277.25,Debit Card,2024-12-28
+ORD00697,Arjun Nair,East,Electronics,6,49189.13,10163.84,Credit Card,2025-08-07
+ORD00698,Asha Singh,South,Groceries,2,43297.39,10299.8,Debit Card,2025-12-27
+ORD00699,Priya Gupta,West,Electronics,8,43913.91,6275.12,Debit Card,2024-08-09
+ORD00700,Ajay Gupta,South,Electronics,6,39354.73,9620.17,UPI,2025-03-30
+ORD00701,Ajay Sharma,West,Groceries,3,9915.48,2785.35,Cash,2024-11-13
+ORD00702,Amit Nair,North,Groceries,3,10656.76,630.22,Net Banking,2025-12-31
+ORD00703,Ajay Patel,North,Office Supplies,1,34509.09,6852.54,UPI,2024-12-07
+ORD00704,Manoj Kapoor,North,Electronics,9,38425.92,9083.45,UPI,2025-08-14
+ORD00705,Pooja Joshi,South,Office Supplies,4,10031.01,1195.32,Debit Card,2025-03-27
+ORD00706,Ananya Gupta,South,Furniture,5,6165.79,1785.46,Cash,2025-06-10
+ORD00707,Ananya Reddy,Central,Office Supplies,9,16265.0,1388.86,Debit Card,2025-08-10
+ORD00708,Meera Nair,North,Office Supplies,10,44666.03,8269.66,UPI,2024-05-13
+ORD00709,Rahul Iyer,North,Electronics,7,3163.09,495.39,Credit Card,2025-12-22
+ORD00710,Asha Kapoor,Central,Clothing,10,18103.4,2409.26,Credit Card,2025-12-31
+ORD00711,Nisha Patel,West,Groceries,3,5099.35,1277.83,Net Banking,2024-04-09
+ORD00712,Manoj Gupta,West,Clothing,4,47398.69,4072.99,Cash,2024-09-21
+ORD00713,Neha Singh,South,Office Supplies,6,22937.51,1320.42,Net Banking,2024-04-25
+ORD00714,Neha Iyer,West,Furniture,5,38513.1,7745.37,Credit Card,2025-06-04
+ORD00715,Ananya Singh,North,Office Supplies,9,32647.84,8100.18,Cash,2025-04-17
+ORD00716,Suresh Das,West,Furniture,10,12562.71,1127.57,Net Banking,2025-01-28
+ORD00717,Arjun Kumar,South,Groceries,7,39323.54,6246.09,Debit Card,2025-07-11
+ORD00718,Meera Nair,North,Groceries,8,6158.98,1225.75,Debit Card,2025-07-22
+ORD00719,Ananya Yadav,West,Furniture,5,47816.23,3222.91,UPI,2025-12-02
+ORD00720,Asha Jain,West,Office Supplies,8,32426.96,2119.77,Credit Card,2024-05-22
+ORD00721,Varun Kapoor,North,Furniture,3,22922.23,2816.59,Cash,2025-08-14
+ORD00722,Manoj Reddy,South,Office Supplies,5,28728.68,7995.22,Debit Card,2025-03-21
+ORD00723,Neha Patel,Central,Electronics,10,49327.87,7450.94,Credit Card,2024-10-28
+ORD00724,Priya Kumar,Central,Electronics,1,35316.03,9012.24,Debit Card,2024-04-22
+ORD00725,Pooja Yadav,North,Furniture,7,35259.98,5238.47,Debit Card,2025-12-29
+ORD00726,Suresh Singh,West,Clothing,9,10955.2,1022.7,Credit Card,2024-07-11
+ORD00727,Nisha Singh,East,Clothing,3,14779.31,3963.57,Credit Card,2024-05-17
+ORD00728,Rahul Patel,North,Furniture,8,33067.37,9713.33,Credit Card,2024-03-27
+ORD00729,Vikram Joshi,West,Clothing,10,46550.4,9580.64,Net Banking,2025-06-05
+ORD00730,Divya Menon,West,Clothing,6,11674.18,1823.42,UPI,2025-08-14
+ORD00731,Kavya Yadav,South,Groceries,5,20836.47,3886.87,Debit Card,2024-02-04
+ORD00732,Priya Das,West,Office Supplies,2,29223.3,8487.45,UPI,2024-05-25
+ORD00733,Ajay Yadav,East,Clothing,9,4372.61,1191.44,UPI,2024-09-08
+ORD00734,Kavya Joshi,North,Groceries,10,15968.74,1009.12,Debit Card,2025-07-01
+ORD00735,Rahul Iyer,West,Groceries,8,28911.28,3841.69,Debit Card,2024-10-28
+ORD00736,Pooja Nair,North,Groceries,5,36485.1,6965.97,UPI,2025-10-06
+ORD00737,Kavya Das,South,Groceries,1,32987.83,4055.47,Cash,2024-01-28
+ORD00738,Pooja Iyer,North,Furniture,9,4304.68,1058.7,Debit Card,2024-05-15
+ORD00739,Asha Gupta,East,Office Supplies,1,37200.74,7475.69,Cash,2024-06-03
+ORD00740,Manoj Kumar,South,Office Supplies,4,24503.47,6122.02,UPI,2024-12-17
+ORD00741,Arjun Nair,Central,Furniture,8,37761.68,5786.49,Net Banking,2024-08-31
+ORD00742,Manoj Verma,South,Furniture,10,36850.87,5021.63,Debit Card,2024-04-28
+ORD00743,Priya Nair,West,Clothing,8,15417.67,3646.86,Cash,2024-08-27
+ORD00744,Suresh Joshi,West,Clothing,5,7684.92,2056.25,UPI,2024-10-22
+ORD00745,Manoj Singh,East,Groceries,1,5319.53,972.53,Debit Card,2025-03-18
+ORD00746,Asha Kapoor,East,Office Supplies,5,13720.85,1023.15,Cash,2025-02-04
+ORD00747,Manoj Jain,South,Groceries,4,26237.64,5757.31,Credit Card,2024-11-16
+ORD00748,Nisha Sharma,North,Electronics,1,20856.81,3781.67,Net Banking,2024-12-25
+ORD00749,Meera Verma,East,Office Supplies,4,2185.07,447.61,UPI,2025-08-31
+ORD00750,Karthik Das,North,Electronics,2,42893.82,3537.75,Cash,2024-07-08
+ORD00751,Ananya Verma,South,Office Supplies,5,23614.3,6707.54,Net Banking,2024-10-10
+ORD00752,Divya Verma,East,Office Supplies,3,39146.2,4671.0,UPI,2025-01-26
+ORD00753,Suresh Kumar,North,Office Supplies,5,9307.51,626.86,Credit Card,2025-09-16
+ORD00754,Suresh Nair,West,Electronics,3,27261.29,4302.2,Cash,2025-10-20
+ORD00755,Ananya Kapoor,West,Office Supplies,2,2225.61,150.46,Debit Card,2025-04-01
+ORD00756,Rahul Kapoor,West,Furniture,1,46678.24,10089.57,Debit Card,2024-06-04
+ORD00757,Amit Kapoor,West,Groceries,1,26011.46,7412.69,Net Banking,2025-05-04
+ORD00758,Divya Singh,North,Groceries,4,663.71,191.51,Net Banking,2024-05-04
+ORD00759,Varun Menon,East,Office Supplies,5,20330.43,4230.11,UPI,2025-01-09
+ORD00760,Nisha Yadav,East,Electronics,8,38142.43,4672.05,Credit Card,2024-06-29
+ORD00761,Nisha Sharma,West,Furniture,5,34946.17,9579.28,Debit Card,2025-05-13
+ORD00762,Arjun Kapoor,West,Furniture,3,2267.07,127.73,Cash,2024-09-01
+ORD00763,Kavya Singh,North,Groceries,5,25234.37,7349.22,Net Banking,2024-01-17
+ORD00764,Priya Kumar,North,Office Supplies,1,20572.64,2117.33,Cash,2025-04-14
+ORD00765,Nisha Nair,Central,Furniture,2,2325.44,198.59,UPI,2025-04-27
+ORD00766,Asha Sharma,South,Furniture,1,9026.33,564.05,Debit Card,2024-04-09
+ORD00767,Manoj Das,South,Groceries,2,40981.11,3138.45,Net Banking,2025-09-01
+ORD00768,Asha Reddy,North,Furniture,7,17198.48,4453.96,Net Banking,2024-11-28
+ORD00769,Ananya Joshi,Central,Groceries,3,16418.7,4780.68,Credit Card,2024-02-16
+ORD00770,Varun Nair,East,Electronics,2,14057.72,3365.24,Credit Card,2025-12-14
+ORD00771,Neha Menon,South,Clothing,4,46320.94,2787.35,UPI,2025-10-09
+ORD00772,Asha Singh,South,Electronics,8,4495.77,232.91,UPI,2025-12-24
+ORD00773,Varun Kapoor,East,Clothing,8,34771.74,3530.72,Debit Card,2025-06-19
+ORD00774,Manoj Singh,South,Furniture,10,34737.84,6915.19,Net Banking,2025-09-18
+ORD00775,Arjun Joshi,East,Office Supplies,7,726.22,79.09,UPI,2025-06-26
+ORD00776,Ananya Das,East,Groceries,9,11354.17,2754.33,Credit Card,2024-10-10
+ORD00777,Priya Reddy,North,Furniture,8,25126.98,2259.92,UPI,2024-02-25
+ORD00778,Neha Gupta,South,Clothing,5,17047.58,4283.86,Net Banking,2024-02-14
+ORD00779,Ananya Verma,North,Groceries,3,8323.26,476.64,Cash,2024-04-28
+ORD00780,Arjun Kapoor,South,Clothing,10,29198.21,4518.91,Debit Card,2024-08-23
+ORD00781,Ananya Kumar,South,Electronics,4,37018.52,9901.4,Net Banking,2024-08-13
+ORD00782,Arjun Iyer,Central,Clothing,1,44579.2,3844.3,Cash,2025-04-10
+ORD00783,Sneha Singh,East,Furniture,8,36131.15,7515.47,Debit Card,2024-07-26
+ORD00784,Amit Nair,North,Groceries,1,14389.91,1119.21,Net Banking,2025-04-14
+ORD00785,Divya Nair,East,Furniture,5,30379.98,7515.6,Cash,2024-06-23
+ORD00786,Varun Menon,South,Electronics,7,42920.2,7395.29,Credit Card,2025-08-28
+ORD00787,Kavya Yadav,West,Office Supplies,1,36635.88,8574.43,Credit Card,2024-09-10
+ORD00788,Amit Singh,Central,Furniture,10,47339.49,13181.15,UPI,2025-03-03
+ORD00789,Priya Sharma,West,Groceries,1,21572.03,3205.17,UPI,2025-04-08
+ORD00790,Kavya Reddy,North,Groceries,1,34811.41,5279.31,Credit Card,2024-05-15
+ORD00791,Neha Gupta,South,Electronics,1,24249.26,3060.48,Net Banking,2025-08-07
+ORD00792,Varun Sharma,West,Clothing,3,43772.85,6624.59,Debit Card,2025-10-03
+ORD00793,Manoj Verma,North,Electronics,7,44725.0,5958.56,UPI,2024-10-30
+ORD00794,Divya Jain,East,Groceries,9,28973.85,2949.15,UPI,2025-09-27
+ORD00795,Amit Verma,North,Groceries,6,44454.91,3456.0,Debit Card,2025-04-21
+ORD00796,Asha Sharma,East,Office Supplies,3,32584.55,7371.23,Cash,2025-12-27
+ORD00797,Karthik Nair,East,Furniture,9,6121.11,1038.28,Cash,2025-12-20
+ORD00798,Karthik Jain,South,Office Supplies,6,44947.69,7905.92,Net Banking,2024-10-10
+ORD00799,Priya Patel,East,Office Supplies,8,24568.23,4463.33,UPI,2025-04-26
+ORD00800,Nisha Joshi,Central,Office Supplies,8,31237.09,7808.52,UPI,2024-07-11
+ORD00801,Manoj Patel,North,Clothing,3,14774.45,4272.13,UPI,2024-06-17
+ORD00802,Rohan Patel,South,Clothing,3,43812.16,7893.72,UPI,2024-10-27
+ORD00803,Divya Joshi,Central,Furniture,8,17661.66,2842.91,UPI,2024-10-25
+ORD00804,Karthik Patel,North,Furniture,9,32411.27,4956.43,Debit Card,2025-11-02
+ORD00805,Amit Iyer,Central,Groceries,9,22540.19,2840.53,Credit Card,2024-11-09
+ORD00806,Sneha Jain,East,Furniture,8,18909.16,2307.61,UPI,2024-05-31
+ORD00807,Neha Gupta,West,Furniture,10,46244.52,10541.58,Debit Card,2024-07-05
+ORD00808,Sneha Yadav,South,Furniture,4,6287.41,1876.44,Cash,2024-05-09
+ORD00809,Manoj Gupta,East,Furniture,4,28343.12,1662.96,Debit Card,2024-12-18
+ORD00810,Vikram Kumar,West,Groceries,3,26915.33,2163.25,UPI,2025-02-18
+ORD00811,Kavya Jain,South,Clothing,6,8224.64,2406.02,Cash,2025-06-03
+ORD00812,Amit Joshi,East,Clothing,5,48495.48,11568.13,Cash,2025-11-13
+ORD00813,Vikram Jain,Central,Clothing,6,34612.78,8061.67,UPI,2024-05-22
+ORD00814,Nisha Patel,East,Electronics,7,31067.34,3264.9,Debit Card,2024-04-04
+ORD00815,Amit Sharma,Central,Furniture,10,26558.48,6515.35,Debit Card,2024-07-19
+ORD00816,Rahul Patel,Central,Clothing,2,48804.06,7252.57,Net Banking,2024-11-21
+ORD00817,Asha Das,Central,Electronics,6,20179.12,4620.84,Net Banking,2025-01-13
+ORD00818,Suresh Kumar,North,Office Supplies,6,17892.07,5267.08,Cash,2024-03-30
+ORD00819,Karthik Verma,West,Clothing,8,14787.38,3717.82,Net Banking,2025-02-28
+ORD00820,Vikram Yadav,Central,Groceries,2,7610.14,957.41,Cash,2024-12-09
+ORD00821,Arjun Kapoor,Central,Clothing,2,827.63,173.56,Debit Card,2025-02-28
+ORD00822,Sneha Menon,West,Groceries,3,10363.25,2674.45,Debit Card,2025-07-21
+ORD00823,Kavya Sharma,East,Groceries,5,24957.97,5864.22,Credit Card,2024-01-28
+ORD00824,Rahul Nair,East,Office Supplies,8,6646.76,1438.88,Debit Card,2025-03-03
+ORD00825,Sneha Iyer,South,Electronics,2,38353.56,6645.24,UPI,2025-09-05
+ORD00826,Neha Das,West,Groceries,7,43483.12,9000.96,Net Banking,2025-12-11
+ORD00827,Ananya Kumar,Central,Groceries,1,42341.36,3840.86,UPI,2024-05-29
+ORD00828,Amit Iyer,South,Office Supplies,3,3117.97,437.42,Debit Card,2024-02-19
+ORD00829,Pooja Gupta,Central,Electronics,9,10093.83,2089.5,UPI,2025-09-05
+ORD00830,Sneha Menon,East,Office Supplies,5,13937.22,3128.79,Debit Card,2024-04-08
+ORD00831,Nisha Das,East,Furniture,1,7279.0,876.06,Net Banking,2025-02-25
+ORD00832,Amit Kapoor,South,Electronics,4,8150.47,858.07,Credit Card,2025-07-26
+ORD00833,Asha Verma,Central,Groceries,9,35262.11,8838.27,Net Banking,2025-04-16
+ORD00834,Arjun Patel,South,Electronics,8,17736.39,3951.01,Credit Card,2025-03-28
+ORD00835,Asha Menon,East,Furniture,5,1923.6,487.91,Credit Card,2024-05-11
+ORD00836,Vikram Verma,South,Office Supplies,3,10887.13,3214.72,Net Banking,2025-12-08
+ORD00837,Ananya Patel,North,Clothing,7,2604.59,200.43,Cash,2025-08-30
+ORD00838,Priya Iyer,North,Office Supplies,1,3779.24,819.7,UPI,2024-05-06
+ORD00839,Asha Reddy,Central,Furniture,3,33694.73,1931.21,Credit Card,2024-10-11
+ORD00840,Varun Kumar,East,Furniture,9,39149.71,7956.75,Cash,2025-08-06
+ORD00841,Arjun Patel,Central,Electronics,9,11241.4,1100.39,Debit Card,2024-06-24
+ORD00842,Nisha Sharma,North,Furniture,9,42639.19,7192.33,Cash,2024-07-08
+ORD00843,Manoj Joshi,North,Furniture,6,49074.41,7656.73,Cash,2024-08-21
+ORD00844,Divya Patel,East,Electronics,8,5960.65,500.56,Debit Card,2025-12-22
+ORD00845,Pooja Menon,North,Electronics,6,24938.78,3645.93,Net Banking,2025-09-06
+ORD00846,Pooja Joshi,West,Furniture,9,20660.47,6120.47,Net Banking,2024-07-12
+ORD00847,Arjun Kapoor,West,Office Supplies,3,1132.9,247.58,UPI,2025-02-09
+ORD00848,Manoj Menon,North,Electronics,3,20043.17,4484.85,UPI,2024-06-21
+ORD00849,Arjun Kumar,South,Office Supplies,4,29950.56,8915.24,UPI,2024-08-26
+ORD00850,Divya Verma,West,Office Supplies,10,29885.67,7144.94,Net Banking,2024-12-30
+ORD00851,Kavya Joshi,Central,Clothing,8,25815.02,2241.87,Net Banking,2024-04-20
+ORD00852,Ananya Gupta,West,Clothing,4,31604.37,2643.77,UPI,2024-02-24
+ORD00853,Arjun Iyer,North,Furniture,7,30426.9,4008.41,Debit Card,2025-09-28
+ORD00854,Asha Patel,North,Groceries,8,39740.21,3993.21,Net Banking,2025-05-17
+ORD00855,Ajay Gupta,Central,Office Supplies,9,27557.69,7940.61,UPI,2025-03-16
+ORD00856,Ananya Singh,West,Office Supplies,7,22406.53,1321.88,Credit Card,2025-07-24
+ORD00857,Pooja Kapoor,South,Clothing,7,7157.17,1638.5,Net Banking,2024-04-22
+ORD00858,Varun Joshi,West,Groceries,9,28824.41,4870.68,Credit Card,2025-06-02
+ORD00859,Priya Singh,East,Clothing,10,48558.1,9917.26,Debit Card,2024-10-18
+ORD00860,Amit Sharma,North,Groceries,1,6845.8,969.38,Cash,2024-01-28
+ORD00861,Amit Singh,North,Clothing,6,49601.3,7588.13,UPI,2025-11-08
+ORD00862,Meera Reddy,South,Office Supplies,10,4704.62,1044.42,Debit Card,2024-04-27
+ORD00863,Amit Nair,North,Groceries,6,2350.19,503.98,Net Banking,2025-08-04
+ORD00864,Ajay Kapoor,West,Office Supplies,1,34949.94,6885.04,Debit Card,2025-01-21
+ORD00865,Varun Singh,East,Groceries,2,40512.17,3038.99,Credit Card,2024-12-10
+ORD00866,Kavya Menon,East,Furniture,10,15326.28,4480.74,Credit Card,2025-05-23
+ORD00867,Arjun Yadav,Central,Furniture,5,13625.18,1694.02,Cash,2025-02-15
+ORD00868,Meera Das,North,Groceries,2,29797.3,3526.25,Cash,2025-06-27
+ORD00869,Kavya Singh,South,Office Supplies,2,32751.07,4109.01,Debit Card,2025-03-19
+ORD00870,Nisha Kumar,South,Clothing,7,12937.61,2313.79,Cash,2024-07-03
+ORD00871,Rahul Joshi,Central,Furniture,10,25210.58,5425.36,Net Banking,2024-10-01
+ORD00872,Nisha Jain,Central,Clothing,10,36467.45,2369.31,Credit Card,2025-01-08
+ORD00873,Manoj Nair,South,Furniture,5,42284.04,6451.07,UPI,2025-10-11
+ORD00874,Karthik Yadav,West,Office Supplies,5,32479.11,3706.25,Cash,2024-08-29
+ORD00875,Suresh Reddy,North,Furniture,4,1871.36,466.46,Debit Card,2025-04-20
+ORD00876,Kavya Menon,West,Clothing,1,10498.53,1240.7,UPI,2024-09-21
+ORD00877,Rohan Joshi,Central,Furniture,1,48207.45,8265.67,UPI,2024-02-26
+ORD00878,Arjun Kumar,Central,Office Supplies,2,45078.46,6840.73,Debit Card,2025-11-18
+ORD00879,Arjun Singh,South,Furniture,2,28763.18,5035.34,UPI,2025-06-18
+ORD00880,Varun Jain,Central,Office Supplies,8,44285.96,4850.16,UPI,2024-11-16
+ORD00881,Amit Yadav,Central,Clothing,4,46807.25,4891.46,UPI,2024-06-28
+ORD00882,Karthik Gupta,West,Clothing,5,43213.55,2764.86,Cash,2025-01-18
+ORD00883,Ananya Kumar,Central,Clothing,8,34295.55,9974.13,Credit Card,2025-01-06
+ORD00884,Kavya Verma,East,Office Supplies,1,32447.18,8965.39,UPI,2025-11-09
+ORD00885,Priya Verma,South,Office Supplies,9,19542.17,4098.72,Debit Card,2025-12-02
+ORD00886,Ananya Menon,South,Clothing,7,889.37,258.08,Debit Card,2024-11-04
+ORD00887,Arjun Kapoor,South,Office Supplies,4,43041.13,3876.15,Net Banking,2025-10-08
+ORD00888,Amit Kapoor,West,Electronics,5,43389.01,11098.88,Net Banking,2025-04-27
+ORD00889,Divya Kapoor,East,Clothing,2,41307.84,9278.59,Cash,2024-03-08
+ORD00890,Neha Singh,Central,Groceries,6,22936.46,1303.66,UPI,2025-10-18
+ORD00891,Sneha Joshi,West,Furniture,1,20332.76,4210.39,Debit Card,2025-08-12
+ORD00892,Arjun Patel,South,Furniture,9,35821.42,8665.27,Credit Card,2025-08-31
+ORD00893,Divya Jain,East,Clothing,8,43738.54,3646.81,Credit Card,2025-12-04
+ORD00894,Varun Yadav,East,Office Supplies,4,4677.75,663.77,Net Banking,2025-01-21
+ORD00895,Varun Reddy,North,Electronics,9,32531.78,6722.91,UPI,2025-04-18
+ORD00896,Karthik Gupta,South,Electronics,7,31091.2,6221.29,Credit Card,2024-04-01
+ORD00897,Neha Nair,Central,Electronics,1,36069.88,5727.52,Net Banking,2025-11-20
+ORD00898,Kavya Patel,South,Furniture,4,47329.59,11991.1,Debit Card,2024-10-21
+ORD00899,Kavya Singh,South,Clothing,4,30204.1,9025.04,Debit Card,2025-11-24
+ORD00900,Karthik Singh,South,Clothing,3,1924.27,565.8,Credit Card,2025-09-24
+ORD00901,Manoj Kapoor,South,Office Supplies,10,34371.22,5655.48,UPI,2025-04-25
+ORD00902,Vikram Yadav,East,Clothing,4,35810.13,8132.96,Cash,2024-09-19
+ORD00903,Arjun Patel,Central,Electronics,1,16976.7,1845.54,Debit Card,2025-09-12
+ORD00904,Asha Verma,North,Electronics,5,25474.83,3699.82,Net Banking,2025-11-18
+ORD00905,Neha Nair,Central,Electronics,10,9378.93,867.24,Net Banking,2024-12-13
+ORD00906,Manoj Nair,North,Office Supplies,9,21930.02,2524.18,Debit Card,2024-02-15
+ORD00907,Vikram Iyer,East,Office Supplies,7,14504.81,3905.19,Cash,2024-09-27
+ORD00908,Ajay Kumar,West,Furniture,6,36975.03,6389.98,Credit Card,2025-07-23
+ORD00909,Manoj Sharma,South,Furniture,1,11878.1,700.4,Debit Card,2024-06-16
+ORD00910,Manoj Singh,North,Clothing,1,22355.22,6644.08,Cash,2025-05-11
+ORD00911,Manoj Iyer,North,Furniture,2,17805.41,1797.16,Debit Card,2024-07-03
+ORD00912,Sneha Verma,Central,Office Supplies,10,44599.28,8760.16,Cash,2024-01-05
+ORD00913,Ajay Jain,Central,Furniture,7,46060.45,5137.55,Net Banking,2025-11-24
+ORD00914,Ananya Kapoor,East,Electronics,5,34224.96,7534.96,Net Banking,2025-01-17
+ORD00915,Varun Kapoor,North,Office Supplies,3,1929.29,318.45,Net Banking,2025-04-09
+ORD00916,Rohan Das,North,Office Supplies,1,32980.55,9489.3,Debit Card,2025-08-05
+ORD00917,Vikram Reddy,North,Office Supplies,6,40008.28,9439.95,Cash,2025-09-08
+ORD00918,Suresh Patel,West,Office Supplies,3,12383.97,3005.83,Net Banking,2024-04-01
+ORD00919,Rahul Yadav,South,Furniture,7,39084.88,4738.42,Credit Card,2024-05-03
+ORD00920,Pooja Iyer,West,Office Supplies,10,6998.69,1514.38,Debit Card,2025-06-08
+ORD00921,Karthik Iyer,West,Clothing,8,13789.73,2759.12,UPI,2025-03-08
+ORD00922,Neha Das,South,Clothing,7,5100.9,909.67,Net Banking,2025-11-23
+ORD00923,Meera Joshi,South,Clothing,9,31663.2,5736.4,Debit Card,2025-04-24
+ORD00924,Divya Patel,West,Office Supplies,3,49217.22,10880.87,Debit Card,2024-09-11
+ORD00925,Ajay Singh,East,Groceries,1,27774.22,7758.05,Cash,2024-04-20
+ORD00926,Ajay Singh,West,Electronics,8,33212.34,6380.74,Debit Card,2024-12-29
+ORD00927,Rohan Das,North,Groceries,1,6139.81,1322.48,Credit Card,2024-07-05
+ORD00928,Suresh Sharma,North,Clothing,5,16040.34,3705.7,Net Banking,2025-09-30
+ORD00929,Rohan Kumar,South,Furniture,3,4371.92,1292.11,Debit Card,2025-11-20
+ORD00930,Ananya Singh,Central,Electronics,1,20049.23,1069.15,Net Banking,2025-04-16
+ORD00931,Suresh Yadav,Central,Clothing,5,31115.72,9131.86,Debit Card,2025-12-08
+ORD00932,Suresh Jain,East,Electronics,3,7188.14,702.29,UPI,2025-12-13
+ORD00933,Karthik Yadav,North,Furniture,8,32606.85,6926.83,Net Banking,2025-10-03
+ORD00934,Nisha Reddy,North,Office Supplies,8,7834.2,1217.98,UPI,2024-06-19
+ORD00935,Vikram Verma,West,Clothing,8,1471.58,238.95,Credit Card,2024-07-25
+ORD00936,Pooja Das,West,Electronics,6,889.78,184.72,Net Banking,2025-03-01
+ORD00937,Kavya Verma,Central,Groceries,9,49951.81,2959.86,Net Banking,2025-05-12
+ORD00938,Ajay Das,Central,Clothing,4,35857.37,6528.81,Net Banking,2025-08-13
+ORD00939,Amit Menon,North,Office Supplies,7,44512.46,3526.95,Cash,2025-10-23
+ORD00940,Neha Iyer,West,Electronics,3,14756.53,1446.88,Debit Card,2025-03-24
+ORD00941,Meera Menon,South,Groceries,6,46125.91,12147.88,Net Banking,2024-05-14
+ORD00942,Pooja Verma,West,Clothing,6,39900.65,9972.72,Credit Card,2025-09-28
+ORD00943,Karthik Gupta,North,Clothing,3,9077.91,808.65,Net Banking,2024-04-13
+ORD00944,Divya Iyer,East,Furniture,4,28063.11,8413.75,Debit Card,2024-09-24
+ORD00945,Neha Joshi,South,Furniture,9,2082.52,137.27,Net Banking,2024-04-26
+ORD00946,Asha Reddy,North,Groceries,4,24575.08,7333.59,Debit Card,2024-02-17
+ORD00947,Nisha Gupta,South,Groceries,10,33639.55,7622.76,Net Banking,2025-04-13
+ORD00948,Ananya Patel,Central,Groceries,2,41268.71,2496.44,UPI,2024-06-20
+ORD00949,Ananya Yadav,South,Office Supplies,3,36553.29,8299.09,Cash,2025-05-25
+ORD00950,Ananya Nair,East,Office Supplies,3,6587.68,661.88,Net Banking,2024-01-07
+ORD00951,Meera Yadav,West,Office Supplies,5,25498.63,1818.27,Debit Card,2025-02-28
+ORD00952,Neha Joshi,South,Furniture,9,21375.25,2288.12,Net Banking,2025-02-27
+ORD00953,Divya Kapoor,West,Groceries,6,47215.14,7584.86,UPI,2025-06-13
+ORD00954,Arjun Patel,East,Office Supplies,7,49106.27,4472.66,UPI,2025-02-06
+ORD00955,Priya Joshi,South,Groceries,1,48897.78,14425.42,Cash,2024-10-29
+ORD00956,Divya Singh,Central,Office Supplies,6,45506.93,2365.25,Debit Card,2025-06-24
+ORD00957,Asha Kapoor,South,Clothing,8,32372.03,8801.79,Cash,2025-09-25
+ORD00958,Manoj Verma,East,Clothing,4,44108.25,3134.78,Cash,2024-12-08
+ORD00959,Suresh Verma,South,Groceries,9,14554.43,1065.46,Cash,2024-11-15
+ORD00960,Ajay Kumar,South,Electronics,1,44570.81,8244.85,Debit Card,2024-09-04
+ORD00961,Pooja Verma,West,Groceries,2,36733.32,9565.2,Debit Card,2025-10-04
+ORD00962,Ajay Kumar,North,Electronics,2,22712.48,4385.98,UPI,2025-04-09
+ORD00963,Amit Reddy,Central,Groceries,9,42302.54,4588.11,Debit Card,2024-10-18
+ORD00964,Varun Joshi,South,Clothing,9,37006.86,2823.87,Cash,2025-08-19
+ORD00965,Karthik Yadav,East,Clothing,2,7754.39,1212.97,Net Banking,2024-03-24
+ORD00966,Arjun Sharma,West,Furniture,8,11131.83,773.86,Cash,2025-02-16
+ORD00967,Varun Menon,Central,Clothing,5,29423.04,6152.81,Net Banking,2025-12-06
+ORD00968,Kavya Verma,West,Furniture,3,25536.4,4371.6,Net Banking,2024-05-12
+ORD00969,Ajay Yadav,Central,Electronics,4,23043.9,1340.05,Credit Card,2025-07-26
+ORD00970,Neha Kapoor,North,Groceries,7,5961.64,848.92,Debit Card,2024-02-11
+ORD00971,Ajay Nair,North,Office Supplies,5,49555.5,6234.83,Net Banking,2024-01-29
+ORD00972,Vikram Nair,Central,Clothing,1,46872.62,5919.59,Debit Card,2024-08-08
+ORD00973,Sneha Yadav,West,Electronics,2,27603.1,1846.4,UPI,2025-03-03
+ORD00974,Kavya Das,East,Groceries,8,45064.22,11055.94,Net Banking,2025-09-12
+ORD00975,Vikram Jain,South,Groceries,8,38203.1,8282.63,Credit Card,2024-11-29
+ORD00976,Arjun Jain,Central,Groceries,7,19668.14,5409.94,Debit Card,2025-07-07
+ORD00977,Priya Joshi,West,Office Supplies,2,43364.7,9835.21,Cash,2025-10-07
+ORD00978,Pooja Menon,North,Groceries,2,10025.12,2051.9,Cash,2024-02-24
+ORD00979,Varun Menon,South,Clothing,9,44894.78,3594.76,Cash,2024-07-03
+ORD00980,Rahul Gupta,South,Furniture,10,22489.36,5661.25,Cash,2024-11-24
+ORD00981,Suresh Das,North,Clothing,1,17327.85,1648.35,UPI,2025-06-24
+ORD00982,Amit Singh,East,Electronics,2,48999.41,9086.69,Debit Card,2024-05-27
+ORD00983,Sneha Gupta,North,Furniture,5,47632.15,10462.5,UPI,2025-09-21
+ORD00984,Amit Nair,North,Electronics,5,19802.02,2574.47,Net Banking,2024-11-27
+ORD00985,Rohan Singh,North,Electronics,4,12361.34,2463.01,Credit Card,2025-05-19
+ORD00986,Ajay Jain,Central,Clothing,2,13829.73,1792.11,Cash,2025-02-20
+ORD00987,Arjun Iyer,North,Clothing,4,45729.89,2499.4,Cash,2025-08-23
+ORD00988,Ananya Reddy,Central,Furniture,5,28628.16,4623.32,Cash,2024-07-27
+ORD00989,Vikram Kumar,Central,Furniture,4,27108.01,4227.17,Cash,2025-04-07
+ORD00990,Priya Sharma,West,Groceries,5,32826.41,3014.96,UPI,2025-05-08
+ORD00991,Rohan Das,East,Clothing,6,42200.71,4354.63,Cash,2024-10-15
+ORD00992,Priya Nair,Central,Groceries,2,15381.6,2289.19,UPI,2024-05-23
+ORD00993,Nisha Gupta,West,Furniture,10,25488.6,6385.25,Debit Card,2025-10-12
+ORD00994,Rohan Jain,West,Office Supplies,4,33282.71,4340.38,Credit Card,2025-04-15
+ORD00995,Asha Kumar,North,Furniture,1,30634.94,1564.52,UPI,2025-11-19
+ORD00996,Sneha Singh,Central,Clothing,7,27137.51,6698.25,UPI,2025-07-05
+ORD00997,Rahul Kapoor,West,Electronics,6,48615.93,7005.27,Cash,2025-01-01
+ORD00998,Suresh Nair,North,Electronics,8,18838.79,1850.87,UPI,2024-08-14
+ORD00999,Rahul Jain,East,Office Supplies,4,4953.34,1007.31,Debit Card,2024-08-14
+ORD01000,Meera Iyer,East,Electronics,5,24895.47,5626.67,Cash,2024-08-02
+ORD01001,Rahul Reddy,West,Electronics,5,28670.56,4974.42,Cash,2024-07-17
+ORD01002,Varun Joshi,Central,Groceries,3,3735.35,306.53,UPI,2024-05-10
+ORD01003,Rohan Kapoor,Central,Furniture,9,36580.49,4337.79,UPI,2025-12-10
+ORD01004,Nisha Das,East,Groceries,8,596.77,93.56,UPI,2024-11-26
+ORD01005,Divya Yadav,West,Office Supplies,2,34168.59,5694.08,Debit Card,2025-06-13
+ORD01006,Priya Kapoor,South,Electronics,5,45960.38,8415.46,Debit Card,2024-01-06
+ORD01007,Suresh Reddy,East,Electronics,10,40479.81,12045.42,Credit Card,2025-12-07
+ORD01008,Divya Patel,South,Furniture,3,16796.62,1103.72,UPI,2024-01-29
+ORD01009,Kavya Singh,North,Groceries,6,42105.13,4706.86,Net Banking,2024-09-01
+ORD01010,Amit Yadav,North,Office Supplies,9,39808.5,11380.73,Cash,2025-09-26
+ORD01011,Manoj Jain,North,Clothing,10,6678.91,1961.14,UPI,2025-01-21
+ORD01012,Amit Kapoor,North,Furniture,1,45996.23,7381.46,Debit Card,2025-09-17
+ORD01013,Divya Patel,North,Electronics,9,3084.06,809.51,Net Banking,2024-04-08
+ORD01014,Asha Jain,West,Furniture,10,39480.0,8132.96,Net Banking,2025-01-28
+ORD01015,Manoj Jain,West,Groceries,10,5513.26,1172.84,UPI,2025-04-09
+ORD01016,Ajay Kumar,Central,Furniture,2,5583.14,1109.89,UPI,2025-08-30
+ORD01017,Karthik Kapoor,Central,Furniture,9,13186.16,2047.17,Cash,2025-03-31
+ORD01018,Sneha Reddy,South,Electronics,1,6820.2,1337.65,Cash,2025-10-29
+ORD01019,Neha Gupta,Central,Groceries,3,7796.75,991.5,Debit Card,2024-10-25
+ORD01020,Neha Sharma,Central,Groceries,3,3337.22,589.94,Cash,2024-02-25
+ORD01021,Divya Kumar,South,Furniture,4,39370.56,5330.3,Net Banking,2025-12-12
+ORD01022,Manoj Das,East,Groceries,10,48171.71,9828.27,Net Banking,2024-12-02
+ORD01023,Sneha Patel,West,Electronics,8,11360.59,578.53,Credit Card,2025-12-10
+ORD01024,Meera Iyer,Central,Furniture,4,24296.94,5881.98,Debit Card,2025-01-19
+ORD01025,Karthik Singh,South,Electronics,6,989.66,138.03,Cash,2024-04-27
+ORD01026,Vikram Gupta,West,Furniture,10,45679.08,6394.03,UPI,2024-07-22
+ORD01027,Karthik Gupta,South,Furniture,5,36082.42,4869.48,Cash,2024-09-08
+ORD01028,Sneha Reddy,North,Furniture,5,45577.12,2518.06,Credit Card,2025-01-23
+ORD01029,Ananya Kumar,South,Office Supplies,8,12387.42,3126.24,Credit Card,2025-06-23
+ORD01030,Asha Kapoor,West,Electronics,2,7649.4,2149.78,Credit Card,2024-07-15
+ORD01031,Nisha Singh,East,Office Supplies,10,21762.24,4549.09,UPI,2025-09-22
+ORD01032,Varun Reddy,Central,Office Supplies,3,16720.19,1058.63,Debit Card,2024-05-09
+ORD01033,Ajay Das,West,Furniture,2,39340.93,9746.69,Cash,2024-03-07
+ORD01034,Sneha Menon,West,Groceries,6,25180.09,4181.58,Debit Card,2025-12-30
+ORD01035,Neha Menon,West,Clothing,8,13782.61,2070.65,Cash,2025-10-27
+ORD01036,Priya Reddy,South,Furniture,8,43226.83,6439.72,Debit Card,2025-03-11
+ORD01037,Suresh Das,South,Office Supplies,5,27752.32,2319.61,UPI,2024-10-29
+ORD01038,Manoj Menon,East,Furniture,10,2536.57,451.68,Debit Card,2025-03-12
+ORD01039,Manoj Iyer,West,Clothing,6,40322.97,5211.95,Net Banking,2024-01-26
+ORD01040,Sneha Iyer,South,Office Supplies,2,18275.1,1290.31,Cash,2025-06-09
+ORD01041,Nisha Joshi,North,Office Supplies,4,5371.25,364.37,UPI,2025-07-13
+ORD01042,Karthik Kumar,South,Office Supplies,5,15484.42,3931.36,Debit Card,2024-07-14
+ORD01043,Asha Nair,Central,Office Supplies,1,38618.77,4652.07,Debit Card,2025-02-17
+ORD01044,Suresh Yadav,Central,Electronics,8,32877.51,9775.1,Credit Card,2025-02-11
+ORD01045,Meera Reddy,South,Clothing,4,26033.35,6417.06,Net Banking,2025-04-17
+ORD01046,Amit Jain,North,Office Supplies,4,21725.25,6202.18,Net Banking,2024-08-02
+ORD01047,Manoj Iyer,Central,Electronics,6,7378.04,1980.54,Debit Card,2024-01-10
+ORD01048,Kavya Jain,East,Office Supplies,4,21247.79,4705.13,Net Banking,2025-12-08
+ORD01049,Nisha Gupta,East,Groceries,1,28595.08,1660.01,Credit Card,2024-06-06
+ORD01050,Amit Das,Central,Groceries,10,43413.77,12808.93,Credit Card,2025-02-04
+ORD01051,Arjun Menon,West,Furniture,8,5877.6,1130.73,Net Banking,2025-10-16
+ORD01052,Pooja Patel,South,Electronics,9,9292.99,2384.76,Cash,2025-05-15
+ORD01053,Rahul Nair,South,Electronics,7,14548.97,1575.07,Cash,2024-03-12
+ORD01054,Manoj Sharma,East,Groceries,1,9005.37,2385.76,Net Banking,2025-02-04
+ORD01055,Sneha Patel,South,Groceries,7,24173.43,1624.23,Credit Card,2024-05-13
+ORD01056,Karthik Gupta,West,Clothing,3,30383.62,8652.91,Cash,2024-07-26
+ORD01057,Ajay Verma,West,Office Supplies,4,868.44,74.4,UPI,2025-02-12
+ORD01058,Asha Jain,South,Groceries,6,45559.98,12292.53,Net Banking,2025-04-18
+ORD01059,Varun Sharma,North,Office Supplies,8,17665.7,4604.74,Debit Card,2025-02-04
+ORD01060,Asha Yadav,South,Clothing,4,9389.12,1919.46,Net Banking,2025-04-13
+ORD01061,Suresh Kapoor,South,Groceries,2,19980.79,5722.93,Credit Card,2024-06-10
+ORD01062,Rohan Kapoor,Central,Office Supplies,2,35053.18,8083.35,Credit Card,2025-05-20
+ORD01063,Divya Jain,Central,Electronics,6,4288.41,327.23,Debit Card,2025-02-23
+ORD01064,Manoj Nair,East,Furniture,9,2709.44,153.57,Net Banking,2025-01-25
+ORD01065,Amit Verma,West,Furniture,7,2369.85,266.97,Credit Card,2024-11-30
+ORD01066,Manoj Iyer,West,Electronics,2,27647.21,3057.05,Net Banking,2024-05-23
+ORD01067,Kavya Yadav,East,Furniture,3,42005.54,8474.5,Credit Card,2024-10-28
+ORD01068,Ananya Menon,West,Furniture,2,33733.91,1781.24,Debit Card,2024-06-06
+ORD01069,Manoj Kumar,South,Furniture,1,44688.04,8181.25,Net Banking,2025-12-14
+ORD01070,Priya Yadav,Central,Electronics,7,34672.16,5582.1,Cash,2024-01-05
+ORD01071,Priya Jain,West,Furniture,4,19044.91,2087.99,UPI,2024-01-17
+ORD01072,Divya Sharma,North,Office Supplies,4,34158.0,2247.35,UPI,2025-11-11
+ORD01073,Sneha Verma,South,Electronics,7,25868.75,6568.23,Debit Card,2025-07-29
+ORD01074,Karthik Das,South,Groceries,7,46976.7,3767.58,Credit Card,2024-04-18
+ORD01075,Neha Kumar,South,Electronics,7,32872.64,1742.1,Credit Card,2025-04-14
+ORD01076,Meera Patel,East,Groceries,6,2674.98,725.9,Net Banking,2024-11-04
+ORD01077,Asha Iyer,North,Groceries,10,8987.23,2604.13,Cash,2024-11-28
+ORD01078,Suresh Joshi,South,Office Supplies,3,31950.0,8658.19,Debit Card,2025-11-13
+ORD01079,Kavya Patel,East,Electronics,10,45649.11,7405.56,Cash,2025-10-17
+ORD01080,Meera Menon,Central,Electronics,4,1550.06,371.6,UPI,2024-11-12
+ORD01081,Meera Verma,West,Furniture,10,4429.79,373.82,Net Banking,2024-10-30
+ORD01082,Karthik Nair,West,Furniture,1,12284.17,2841.66,Net Banking,2024-12-02
+ORD01083,Vikram Gupta,East,Electronics,9,39693.1,6101.76,Debit Card,2024-01-25
+ORD01084,Meera Yadav,East,Office Supplies,4,10687.96,678.88,Credit Card,2025-12-04
+ORD01085,Meera Das,West,Groceries,6,9585.5,1988.47,UPI,2025-05-18
+ORD01086,Arjun Reddy,North,Furniture,4,6715.27,627.33,Cash,2024-07-28
+ORD01087,Meera Menon,North,Clothing,8,15917.42,3667.67,Credit Card,2025-03-10
+ORD01088,Sneha Das,South,Office Supplies,5,29032.88,8475.61,Credit Card,2024-10-05
+ORD01089,Kavya Patel,East,Clothing,7,8804.42,1411.74,Cash,2025-09-16
+ORD01090,Divya Jain,South,Clothing,1,38215.5,5994.08,UPI,2024-11-03
+ORD01091,Asha Menon,South,Groceries,3,13235.94,2196.01,Net Banking,2024-10-17
+ORD01092,Suresh Menon,Central,Clothing,2,16995.09,3887.05,Credit Card,2024-06-07
+ORD01093,Karthik Sharma,North,Groceries,6,24826.96,6986.87,Net Banking,2025-01-17
+ORD01094,Suresh Iyer,East,Groceries,2,20734.99,1238.02,UPI,2025-01-29
+ORD01095,Varun Nair,South,Clothing,5,38677.88,9201.25,Debit Card,2025-06-05
+ORD01096,Kavya Joshi,East,Electronics,7,46362.68,10844.98,Credit Card,2025-05-04
+ORD01097,Priya Kapoor,East,Electronics,3,13435.87,2201.71,Credit Card,2024-09-17
+ORD01098,Meera Das,Central,Furniture,1,6278.17,458.79,Net Banking,2025-02-11
+ORD01099,Varun Kapoor,North,Groceries,4,43862.31,4011.47,Net Banking,2024-09-15
+ORD01100,Pooja Menon,Central,Clothing,10,15744.95,2407.44,UPI,2024-04-21
+ORD01101,Varun Jain,East,Furniture,5,37562.14,10611.46,Net Banking,2025-12-16
+ORD01102,Pooja Sharma,South,Clothing,1,5295.1,1289.02,Net Banking,2025-06-21
+ORD01103,Divya Joshi,East,Clothing,3,9231.86,891.8,Credit Card,2024-07-21
+ORD01104,Kavya Nair,Central,Electronics,8,28571.06,2946.91,Credit Card,2024-03-01
+ORD01105,Sneha Jain,South,Office Supplies,7,22316.16,6209.31,UPI,2025-10-13
+ORD01106,Sneha Patel,East,Electronics,7,6671.74,440.77,UPI,2025-08-22
+ORD01107,Meera Iyer,West,Electronics,1,3522.3,838.13,UPI,2025-11-12
+ORD01108,Varun Jain,North,Electronics,4,26355.56,1365.63,Cash,2025-06-16
+ORD01109,Rohan Kapoor,West,Clothing,6,30416.39,4079.98,Debit Card,2024-11-18
+ORD01110,Meera Kumar,West,Clothing,10,3333.46,463.38,Debit Card,2024-04-12
+ORD01111,Rahul Iyer,West,Furniture,1,30294.5,8096.25,Debit Card,2025-12-17
+ORD01112,Meera Kumar,West,Groceries,8,25988.24,5588.96,UPI,2025-10-15
+ORD01113,Amit Sharma,East,Electronics,6,34057.51,3691.48,Net Banking,2025-02-13
+ORD01114,Asha Jain,North,Office Supplies,7,46984.7,13408.0,Net Banking,2025-11-05
+ORD01115,Ananya Verma,West,Office Supplies,10,10156.31,871.31,Cash,2025-08-08
+ORD01116,Ajay Sharma,South,Clothing,2,15416.74,3364.94,Cash,2025-04-23
+ORD01117,Sneha Kapoor,West,Electronics,8,33300.78,3670.59,Credit Card,2024-06-23
+ORD01118,Arjun Patel,West,Electronics,3,46485.67,6118.69,Net Banking,2024-10-14
+ORD01119,Meera Verma,East,Clothing,2,33441.08,9386.38,Net Banking,2024-04-02
+ORD01120,Amit Yadav,South,Groceries,10,3701.02,502.62,Net Banking,2025-10-31
+ORD01121,Nisha Yadav,West,Furniture,4,13325.15,1635.58,UPI,2024-04-01
+ORD01122,Amit Verma,Central,Furniture,2,28855.53,2361.95,Debit Card,2025-01-24
+ORD01123,Varun Verma,North,Office Supplies,1,29707.96,2895.47,Net Banking,2025-03-09
+ORD01124,Amit Jain,East,Furniture,9,33355.27,6594.14,UPI,2025-02-08
+ORD01125,Rahul Menon,West,Office Supplies,3,40899.32,5079.94,Credit Card,2025-05-26
+ORD01126,Manoj Nair,Central,Office Supplies,3,37479.47,9830.19,UPI,2025-09-05
+ORD01127,Amit Gupta,Central,Electronics,5,49844.01,11296.18,Net Banking,2025-10-08
+ORD01128,Karthik Iyer,East,Clothing,1,49066.57,6539.89,Credit Card,2024-08-18
+ORD01129,Priya Kapoor,South,Clothing,7,15305.54,3883.83,Credit Card,2024-01-23
+ORD01130,Nisha Singh,East,Clothing,8,49520.56,11856.64,Net Banking,2024-03-14
+ORD01131,Ajay Verma,East,Office Supplies,4,35204.88,6583.4,UPI,2024-05-14
+ORD01132,Amit Jain,Central,Electronics,5,23147.86,2104.69,Credit Card,2025-03-28
+ORD01133,Kavya Gupta,South,Furniture,4,40315.74,3987.78,UPI,2025-01-05
+ORD01134,Varun Patel,South,Clothing,7,34132.54,3142.1,UPI,2024-04-08
+ORD01135,Neha Iyer,South,Electronics,2,49023.7,10418.73,Cash,2025-03-20
+ORD01136,Vikram Joshi,West,Furniture,1,6380.73,951.76,Debit Card,2025-12-05
+ORD01137,Asha Nair,West,Electronics,8,43312.34,9207.24,Debit Card,2025-10-09
+ORD01138,Manoj Kumar,North,Electronics,2,4590.53,790.97,Cash,2024-08-18
+ORD01139,Rahul Das,Central,Groceries,8,14049.38,3320.43,Cash,2024-07-04
+ORD01140,Suresh Iyer,West,Office Supplies,10,6699.2,879.65,Cash,2024-07-08
+ORD01141,Suresh Yadav,North,Clothing,9,40964.41,10071.86,Cash,2025-05-15
+ORD01142,Arjun Menon,Central,Groceries,2,37798.66,3850.4,UPI,2024-07-04
+ORD01143,Asha Verma,South,Electronics,9,22638.03,2910.66,UPI,2024-05-11
+ORD01144,Varun Reddy,South,Electronics,9,13209.64,3147.42,UPI,2024-05-07
+ORD01145,Ajay Gupta,East,Groceries,3,21441.04,6138.72,UPI,2024-09-11
+ORD01146,Pooja Sharma,Central,Office Supplies,9,22523.55,4375.6,Debit Card,2025-06-19
+ORD01147,Neha Das,Central,Groceries,4,34552.55,7451.4,UPI,2024-08-30
+ORD01148,Priya Reddy,South,Office Supplies,4,47892.43,9604.16,Credit Card,2025-08-28
+ORD01149,Neha Gupta,South,Groceries,7,4180.8,475.53,Net Banking,2025-10-27
+ORD01150,Sneha Singh,West,Electronics,5,33988.02,9688.28,Credit Card,2025-07-02
+ORD01151,Karthik Patel,East,Furniture,6,28400.29,6019.24,Cash,2025-09-11
+ORD01152,Sneha Singh,South,Office Supplies,7,19257.62,5604.05,Credit Card,2024-03-20
+ORD01153,Rohan Patel,Central,Electronics,9,20635.67,2730.91,UPI,2025-01-06
+ORD01154,Amit Jain,East,Furniture,4,14045.52,1046.2,Credit Card,2025-01-22
+ORD01155,Ananya Jain,North,Furniture,9,36552.21,4628.88,Net Banking,2024-04-07
+ORD01156,Ajay Kumar,Central,Office Supplies,9,13917.17,1040.54,UPI,2024-06-23
+ORD01157,Amit Jain,West,Furniture,6,40401.21,8866.17,Cash,2025-07-18
+ORD01158,Asha Kapoor,West,Clothing,10,6814.82,356.92,Cash,2025-12-31
+ORD01159,Vikram Joshi,South,Furniture,7,28594.26,3341.02,Debit Card,2025-12-25
+ORD01160,Meera Joshi,Central,Clothing,8,9563.67,2836.22,Net Banking,2025-05-29
+ORD01161,Pooja Gupta,West,Groceries,4,15606.78,4127.69,Debit Card,2025-02-20
+ORD01162,Amit Yadav,North,Electronics,2,36632.67,10484.88,Credit Card,2025-08-12
+ORD01163,Priya Patel,East,Groceries,8,40513.17,2133.98,Net Banking,2025-11-24
+ORD01164,Ajay Kapoor,South,Clothing,8,25993.07,7784.63,Cash,2025-12-15
+ORD01165,Ananya Singh,North,Groceries,4,45588.88,10780.83,Net Banking,2025-12-20
+ORD01166,Nisha Verma,East,Furniture,9,34361.87,2081.95,Net Banking,2024-06-21
+ORD01167,Ajay Kapoor,South,Furniture,2,18669.02,1555.68,Debit Card,2024-02-22
+ORD01168,Divya Iyer,West,Furniture,6,48501.56,6522.96,Credit Card,2025-07-06
+ORD01169,Ananya Gupta,East,Clothing,5,13605.16,687.86,Cash,2025-02-07
+ORD01170,Karthik Kapoor,East,Groceries,1,46803.01,12783.0,Net Banking,2024-02-28
+ORD01171,Neha Sharma,Central,Clothing,6,15268.36,1172.47,Debit Card,2024-07-09
+ORD01172,Suresh Kumar,North,Electronics,7,24856.28,1769.42,Cash,2024-06-06
+ORD01173,Divya Patel,West,Electronics,3,38587.66,4342.41,Net Banking,2025-02-08
+ORD01174,Neha Gupta,East,Clothing,3,27053.16,3175.24,Net Banking,2025-11-03
+ORD01175,Manoj Nair,South,Office Supplies,7,787.61,213.36,Credit Card,2024-04-23
+ORD01176,Karthik Gupta,North,Furniture,7,21342.26,2834.32,UPI,2024-06-13
+ORD01177,Karthik Iyer,East,Electronics,7,24708.86,4296.67,Credit Card,2024-11-28
+ORD01178,Suresh Menon,West,Furniture,2,47905.09,11889.0,Credit Card,2024-06-08
+ORD01179,Neha Menon,North,Furniture,1,34076.36,4618.55,Cash,2024-01-09
+ORD01180,Divya Iyer,East,Office Supplies,8,4589.44,721.63,Cash,2024-06-05
+ORD01181,Ajay Nair,South,Office Supplies,2,43276.26,12920.74,Credit Card,2025-11-13
+ORD01182,Divya Reddy,West,Electronics,9,30749.47,2987.84,Cash,2025-10-06
+ORD01183,Vikram Reddy,North,Furniture,7,2399.14,713.98,Credit Card,2025-03-12
+ORD01184,Rahul Das,South,Electronics,1,19327.46,3502.96,Credit Card,2024-08-15
+ORD01185,Amit Singh,West,Electronics,9,21640.1,1361.46,UPI,2024-10-02
+ORD01186,Neha Gupta,East,Clothing,4,16332.12,1010.78,UPI,2024-01-01
+ORD01187,Priya Joshi,East,Furniture,5,23866.88,6614.0,UPI,2025-03-17
+ORD01188,Sneha Gupta,West,Office Supplies,6,15565.66,1155.31,UPI,2025-11-30
+ORD01189,Nisha Jain,South,Office Supplies,6,37193.96,5220.03,Cash,2025-06-25
+ORD01190,Asha Kumar,South,Office Supplies,4,29424.2,2112.89,UPI,2024-05-13
+ORD01191,Asha Patel,North,Groceries,4,10049.91,1622.48,UPI,2024-03-17
+ORD01192,Nisha Das,East,Office Supplies,8,49487.41,4973.47,Credit Card,2024-02-14
+ORD01193,Vikram Reddy,West,Groceries,5,44633.54,10704.85,Cash,2024-12-21
+ORD01194,Neha Iyer,North,Clothing,2,24399.62,4414.88,Cash,2024-01-23
+ORD01195,Sneha Das,East,Furniture,5,2749.54,526.66,Credit Card,2025-02-11
+ORD01196,Kavya Joshi,Central,Groceries,2,8693.15,2066.2,Net Banking,2025-07-29
+ORD01197,Suresh Singh,Central,Office Supplies,4,9611.28,865.02,Credit Card,2025-08-29
+ORD01198,Rahul Kapoor,Central,Clothing,9,35533.82,6441.16,Debit Card,2024-08-13
+ORD01199,Pooja Verma,East,Groceries,2,8969.9,550.78,Credit Card,2024-10-25
+ORD01200,Priya Joshi,South,Office Supplies,3,13886.53,3439.07,Credit Card,2024-08-03
+ORD01201,Nisha Patel,North,Office Supplies,10,48624.82,6376.68,Cash,2024-09-27
+ORD01202,Vikram Singh,Central,Office Supplies,6,49270.43,10173.79,UPI,2024-12-30
+ORD01203,Meera Verma,East,Furniture,5,48594.43,8958.25,Cash,2024-04-18
+ORD01204,Suresh Joshi,East,Groceries,9,10704.87,1718.63,Debit Card,2024-10-02
+ORD01205,Karthik Das,West,Furniture,8,11970.3,2771.98,Debit Card,2024-05-31
+ORD01206,Kavya Patel,West,Furniture,8,9658.89,2565.29,Credit Card,2025-08-06
+ORD01207,Kavya Verma,South,Office Supplies,1,15852.93,4301.11,Net Banking,2025-12-04
+ORD01208,Asha Reddy,North,Furniture,2,21606.55,3538.2,Net Banking,2024-04-12
+ORD01209,Ajay Nair,North,Groceries,2,19204.82,1059.7,UPI,2025-10-21
+ORD01210,Priya Nair,South,Electronics,5,7560.46,1563.85,UPI,2024-01-10
+ORD01211,Ananya Menon,East,Electronics,4,7391.89,1773.45,Net Banking,2024-06-16
+ORD01212,Pooja Kumar,West,Furniture,4,3265.84,728.32,Cash,2024-05-06
+ORD01213,Rahul Yadav,North,Electronics,9,15188.56,2701.83,Net Banking,2024-05-25
+ORD01214,Rahul Kapoor,South,Electronics,4,21643.2,1879.58,Debit Card,2024-08-19
+ORD01215,Suresh Joshi,North,Clothing,3,49543.02,5258.03,Debit Card,2024-12-31
+ORD01216,Arjun Das,East,Electronics,6,46204.32,12935.75,UPI,2025-09-11
+ORD01217,Vikram Nair,West,Groceries,6,30180.77,6635.49,Credit Card,2025-11-14
+ORD01218,Pooja Das,East,Office Supplies,2,13919.12,2433.24,Debit Card,2024-09-28
+ORD01219,Arjun Jain,North,Furniture,3,16352.67,2414.47,Net Banking,2024-03-09
+ORD01220,Ananya Das,West,Office Supplies,3,4977.13,1486.63,Credit Card,2025-01-29
+ORD01221,Neha Kumar,West,Clothing,8,34824.33,5345.05,Debit Card,2024-05-21
+ORD01222,Meera Singh,West,Groceries,8,27167.99,4704.15,Cash,2024-08-23
+ORD01223,Suresh Patel,Central,Clothing,9,29104.88,6501.29,Credit Card,2025-12-20
+ORD01224,Arjun Reddy,East,Electronics,4,49698.31,2698.05,Cash,2025-04-30
+ORD01225,Vikram Kapoor,North,Electronics,6,18362.5,4817.08,Credit Card,2024-10-28
+ORD01226,Manoj Nair,Central,Clothing,4,10931.5,1160.34,Credit Card,2024-04-30
+ORD01227,Vikram Singh,North,Clothing,6,3177.13,243.06,Cash,2024-03-16
+ORD01228,Kavya Yadav,Central,Furniture,1,7770.89,663.01,Credit Card,2024-03-19
+ORD01229,Rahul Das,West,Furniture,3,23753.35,2019.7,Cash,2025-12-16
+ORD01230,Pooja Iyer,West,Office Supplies,8,39179.15,8768.75,Debit Card,2024-04-23
+ORD01231,Vikram Sharma,North,Groceries,3,25413.12,1339.7,Net Banking,2025-11-27
+ORD01232,Manoj Menon,East,Groceries,9,15648.68,1671.73,Credit Card,2024-10-05
+ORD01233,Arjun Menon,West,Furniture,4,20319.92,1300.46,Net Banking,2024-07-07
+ORD01234,Nisha Das,North,Clothing,8,16002.89,3368.17,Net Banking,2024-06-17
+ORD01235,Priya Jain,East,Clothing,4,13861.02,1054.82,Debit Card,2025-09-09
+ORD01236,Amit Sharma,South,Office Supplies,3,27307.61,1811.31,Cash,2024-01-12
+ORD01237,Pooja Reddy,Central,Furniture,1,12396.59,883.38,Cash,2025-08-01
+ORD01238,Priya Das,West,Electronics,1,16071.72,4594.54,UPI,2024-12-31
+ORD01239,Pooja Singh,Central,Furniture,6,37716.19,8728.36,Credit Card,2025-12-20
+ORD01240,Ananya Kumar,West,Groceries,2,25357.77,6181.34,UPI,2025-08-24
+ORD01241,Suresh Iyer,Central,Electronics,5,8480.54,1870.75,UPI,2025-10-02
+ORD01242,Arjun Verma,South,Furniture,3,38556.87,3480.21,Cash,2025-06-12
+ORD01243,Asha Joshi,Central,Office Supplies,8,39374.92,5305.97,Debit Card,2025-09-30
+ORD01244,Divya Sharma,West,Furniture,4,49851.97,10056.1,Credit Card,2025-08-03
+ORD01245,Kavya Patel,North,Furniture,5,27583.23,8060.83,UPI,2025-05-25
+ORD01246,Ananya Iyer,East,Furniture,5,8492.89,1019.4,Debit Card,2024-12-27
+ORD01247,Arjun Patel,South,Clothing,5,49314.09,14528.96,Net Banking,2025-10-27
+ORD01248,Vikram Patel,Central,Clothing,1,18491.87,2249.65,Net Banking,2025-09-26
+ORD01249,Vikram Iyer,East,Groceries,10,47626.23,6830.59,Net Banking,2025-06-02
+ORD01250,Manoj Gupta,North,Groceries,1,37181.61,4134.75,Cash,2024-01-09
+ORD01251,Vikram Yadav,North,Office Supplies,7,8331.19,1248.18,UPI,2024-08-16
+ORD01252,Suresh Yadav,West,Electronics,6,23560.94,4962.43,Net Banking,2024-04-21
+ORD01253,Arjun Nair,North,Clothing,7,10373.81,1371.21,Debit Card,2024-12-16
+ORD01254,Asha Iyer,South,Clothing,2,14279.57,850.64,Credit Card,2025-04-26
+ORD01255,Vikram Joshi,South,Office Supplies,10,2050.5,410.65,Net Banking,2024-03-04
+ORD01256,Neha Jain,West,Clothing,4,3176.84,848.23,Net Banking,2024-10-03
+ORD01257,Rohan Joshi,South,Electronics,3,3928.32,594.23,Debit Card,2025-12-30
+ORD01258,Manoj Yadav,West,Groceries,4,33647.4,3864.8,UPI,2024-04-04
+ORD01259,Divya Kumar,East,Furniture,4,17789.17,2753.32,Net Banking,2025-07-02
+ORD01260,Sneha Verma,West,Office Supplies,10,19762.33,1037.18,Cash,2024-07-22
+ORD01261,Arjun Verma,Central,Groceries,3,16524.76,4901.11,Debit Card,2024-01-15
+ORD01262,Vikram Kapoor,West,Furniture,8,43282.92,3393.46,Net Banking,2024-09-26
+ORD01263,Ajay Verma,North,Clothing,3,31897.51,6689.84,Cash,2024-04-09
+ORD01264,Priya Reddy,South,Clothing,9,38832.03,7775.56,Credit Card,2024-12-22
+ORD01265,Karthik Reddy,Central,Electronics,6,40782.08,2204.18,Debit Card,2025-05-29
+ORD01266,Ananya Verma,West,Clothing,7,20814.15,2873.45,Cash,2025-03-12
+ORD01267,Ajay Jain,East,Electronics,3,23211.77,3325.79,Cash,2025-09-01
+ORD01268,Sneha Menon,West,Clothing,5,42332.03,9403.54,Net Banking,2025-10-11
+ORD01269,Pooja Verma,Central,Electronics,2,40394.02,3068.05,UPI,2025-09-23
+ORD01270,Divya Patel,West,Groceries,9,5435.25,875.22,Cash,2024-02-03
+ORD01271,Pooja Yadav,West,Furniture,4,38955.57,7319.63,UPI,2024-07-19
+ORD01272,Kavya Patel,East,Clothing,7,45445.68,9598.8,Net Banking,2024-01-08
+ORD01273,Neha Jain,South,Groceries,5,13746.65,2951.0,Debit Card,2025-02-28
+ORD01274,Meera Sharma,West,Electronics,1,1799.22,445.54,Cash,2025-09-06
+ORD01275,Amit Kumar,South,Groceries,7,12470.64,3658.54,Credit Card,2025-09-23
+ORD01276,Suresh Yadav,North,Groceries,7,6879.09,1438.2,Credit Card,2025-02-16
+ORD01277,Amit Menon,South,Clothing,4,5429.11,1358.87,Cash,2024-05-01
+ORD01278,Varun Jain,West,Office Supplies,9,8373.13,1093.54,UPI,2024-04-05
+ORD01279,Rahul Singh,North,Groceries,3,1877.01,425.88,UPI,2025-08-08
+ORD01280,Suresh Sharma,South,Clothing,6,9734.48,2074.72,Credit Card,2024-10-31
+ORD01281,Karthik Menon,South,Clothing,5,33133.26,3934.28,Credit Card,2025-10-04
+ORD01282,Rahul Joshi,Central,Electronics,2,23226.82,4621.52,UPI,2024-05-25
+ORD01283,Pooja Gupta,South,Electronics,2,24965.13,3503.84,Credit Card,2025-02-04
+ORD01284,Ananya Iyer,North,Clothing,2,24582.61,5074.36,Credit Card,2025-12-04
+ORD01285,Divya Singh,East,Clothing,3,9400.42,493.85,Credit Card,2025-11-06
+ORD01286,Varun Joshi,Central,Electronics,2,48807.84,14565.96,Net Banking,2025-09-20
+ORD01287,Asha Menon,North,Furniture,9,37213.99,10481.16,Credit Card,2025-09-12
+ORD01288,Rahul Menon,North,Groceries,9,38167.57,3972.35,Debit Card,2024-04-27
+ORD01289,Karthik Sharma,East,Furniture,4,4630.42,1032.12,Credit Card,2024-10-01
+ORD01290,Rohan Iyer,South,Electronics,6,35550.14,7571.51,Net Banking,2025-05-22
+ORD01291,Divya Menon,West,Furniture,5,9061.5,2009.52,Debit Card,2025-02-06
+ORD01292,Ananya Das,Central,Office Supplies,3,39807.93,11482.22,Net Banking,2025-03-19
+ORD01293,Manoj Singh,Central,Office Supplies,6,31334.09,6323.97,Net Banking,2024-07-23
+ORD01294,Varun Kumar,East,Electronics,8,8778.83,513.03,Cash,2024-09-16
+ORD01295,Varun Singh,East,Groceries,9,17936.54,1031.08,Credit Card,2024-11-26
+ORD01296,Divya Jain,South,Office Supplies,4,4095.7,877.46,Debit Card,2024-05-28
+ORD01297,Amit Patel,North,Office Supplies,1,35981.73,3722.06,Cash,2024-11-25
+ORD01298,Meera Menon,North,Clothing,5,30289.19,5507.05,UPI,2025-07-28
+ORD01299,Rohan Verma,Central,Electronics,10,44686.87,6946.02,Net Banking,2024-11-21
+ORD01300,Amit Reddy,South,Electronics,8,25183.22,7493.64,Net Banking,2024-05-02
+ORD01301,Ananya Iyer,South,Groceries,6,29762.97,3247.3,UPI,2024-10-18
+ORD01302,Rahul Joshi,Central,Electronics,8,14576.11,3795.78,Net Banking,2024-02-07
+ORD01303,Nisha Kapoor,Central,Electronics,6,32416.4,2183.68,UPI,2025-03-01
+ORD01304,Pooja Gupta,East,Office Supplies,7,4448.48,1083.89,Net Banking,2025-09-19
+ORD01305,Priya Singh,East,Clothing,8,42509.28,12403.7,UPI,2025-01-17
+ORD01306,Asha Patel,North,Furniture,1,41360.1,3502.52,Debit Card,2025-12-05
+ORD01307,Divya Reddy,South,Electronics,4,36343.34,9197.43,Cash,2024-01-06
+ORD01308,Priya Gupta,North,Electronics,1,47383.67,3258.13,Debit Card,2025-12-05
+ORD01309,Asha Jain,West,Office Supplies,3,46280.49,9064.65,UPI,2024-05-09
+ORD01310,Amit Yadav,South,Groceries,7,32026.73,6951.68,Cash,2025-06-24
+ORD01311,Meera Das,West,Clothing,5,16434.61,3824.6,Credit Card,2024-04-04
+ORD01312,Rohan Jain,East,Electronics,6,28146.5,7549.4,Credit Card,2025-12-12
+ORD01313,Arjun Patel,West,Electronics,4,1149.84,119.62,Net Banking,2024-07-11
+ORD01314,Kavya Patel,East,Furniture,10,38199.33,6817.89,Debit Card,2024-11-15
+ORD01315,Manoj Joshi,South,Groceries,2,45749.2,4789.77,Debit Card,2025-01-29
+ORD01316,Manoj Yadav,Central,Groceries,4,39111.04,3793.32,Debit Card,2025-03-09
+ORD01317,Sneha Joshi,East,Groceries,2,7790.84,2096.12,UPI,2024-09-03
+ORD01318,Rahul Kapoor,West,Furniture,5,1915.02,412.63,Net Banking,2024-12-26
+ORD01319,Rohan Patel,Central,Electronics,6,21857.95,1915.96,Cash,2025-03-17
+ORD01320,Ajay Kumar,North,Clothing,5,18804.14,1171.19,Net Banking,2025-03-08
+ORD01321,Karthik Gupta,South,Clothing,3,29905.43,5454.47,Net Banking,2025-06-15
+ORD01322,Divya Patel,North,Furniture,2,11369.2,719.49,UPI,2025-08-12
+ORD01323,Rohan Reddy,North,Groceries,2,14135.24,3825.7,Net Banking,2025-02-05
+ORD01324,Suresh Patel,South,Office Supplies,8,10682.42,2632.49,Debit Card,2025-10-14
+ORD01325,Pooja Verma,Central,Office Supplies,1,5165.01,908.06,Cash,2025-05-03
+ORD01326,Pooja Yadav,South,Furniture,6,34231.4,3137.7,Debit Card,2025-04-11
+ORD01327,Vikram Sharma,West,Clothing,6,1530.93,449.47,UPI,2024-06-23
+ORD01328,Rahul Das,East,Clothing,10,549.82,147.52,Net Banking,2024-04-22
+ORD01329,Priya Yadav,North,Groceries,5,41850.27,7588.18,Credit Card,2024-05-30
+ORD01330,Ananya Patel,East,Office Supplies,8,24787.76,3413.16,Cash,2024-09-20
+ORD01331,Kavya Gupta,East,Clothing,1,41473.6,5195.96,Debit Card,2025-06-14
+ORD01332,Asha Iyer,North,Office Supplies,9,36546.67,2016.71,Net Banking,2024-08-13
+ORD01333,Vikram Kumar,West,Electronics,4,29090.42,6514.84,Net Banking,2025-01-03
+ORD01334,Karthik Verma,North,Furniture,7,32117.32,9357.81,Cash,2025-04-05
+ORD01335,Ajay Nair,East,Office Supplies,6,19855.8,3064.22,Debit Card,2024-11-12
+ORD01336,Karthik Sharma,Central,Groceries,6,41791.49,3374.26,Net Banking,2025-08-03
+ORD01337,Neha Gupta,North,Electronics,8,46398.04,4026.55,Credit Card,2025-06-19
+ORD01338,Pooja Das,Central,Furniture,5,24597.83,1627.25,Debit Card,2024-01-16
+ORD01339,Manoj Sharma,South,Office Supplies,10,6610.07,1137.54,UPI,2025-03-16
+ORD01340,Neha Joshi,North,Electronics,5,7317.08,1973.27,Cash,2025-11-12
+ORD01341,Nisha Nair,North,Office Supplies,3,49797.76,4939.03,Cash,2024-03-23
+ORD01342,Pooja Reddy,North,Clothing,6,12812.06,2813.85,Net Banking,2025-03-08
+ORD01343,Suresh Kapoor,North,Office Supplies,5,30053.42,2804.75,Net Banking,2025-11-26
+ORD01344,Amit Jain,Central,Furniture,4,12876.01,1983.91,Credit Card,2024-11-04
+ORD01345,Pooja Patel,East,Groceries,8,27518.62,3962.45,Net Banking,2024-04-08
+ORD01346,Vikram Menon,West,Office Supplies,9,46776.55,10672.05,Net Banking,2024-12-28
+ORD01347,Divya Iyer,West,Clothing,8,1869.81,354.75,Net Banking,2024-03-31
+ORD01348,Vikram Das,East,Furniture,10,25854.24,2115.36,Cash,2025-08-02
+ORD01349,Pooja Sharma,West,Furniture,7,33668.92,5579.01,Cash,2025-04-16
+ORD01350,Priya Patel,North,Office Supplies,2,17007.43,1264.5,Debit Card,2025-08-02
+ORD01351,Kavya Verma,East,Electronics,2,37153.41,8121.86,UPI,2025-12-19
+ORD01352,Karthik Menon,South,Groceries,8,7251.94,1985.31,Credit Card,2024-11-04
+ORD01353,Pooja Verma,North,Clothing,10,34544.85,2717.89,UPI,2024-06-05
+ORD01354,Asha Kapoor,North,Groceries,2,12736.7,966.74,UPI,2025-06-01
+ORD01355,Manoj Singh,North,Electronics,5,20525.59,6068.88,Credit Card,2025-07-13
+ORD01356,Rohan Yadav,Central,Clothing,10,6598.23,571.15,UPI,2024-07-08
+ORD01357,Vikram Yadav,South,Furniture,9,37212.4,6946.45,Net Banking,2025-05-06
+ORD01358,Pooja Gupta,North,Groceries,8,18683.3,2219.49,Net Banking,2025-12-15
+ORD01359,Ananya Iyer,West,Clothing,3,1884.55,309.58,Cash,2025-02-02
+ORD01360,Rahul Das,East,Electronics,10,22501.73,6233.59,Debit Card,2024-05-22
+ORD01361,Manoj Kapoor,West,Office Supplies,1,49096.81,6845.91,Cash,2024-08-03
+ORD01362,Neha Kapoor,Central,Clothing,9,3606.91,771.81,Debit Card,2025-11-02
+ORD01363,Varun Kumar,West,Furniture,5,39355.57,8446.14,Net Banking,2024-03-10
+ORD01364,Kavya Singh,West,Groceries,3,29013.93,8177.66,Cash,2024-09-22
+ORD01365,Vikram Verma,East,Groceries,10,17730.71,3623.6,Net Banking,2024-03-10
+ORD01366,Priya Sharma,South,Furniture,2,33430.42,5845.59,Net Banking,2024-11-27
+ORD01367,Meera Jain,South,Electronics,3,36544.08,5336.2,Net Banking,2024-03-06
+ORD01368,Priya Das,East,Electronics,1,42416.69,2893.68,Debit Card,2025-09-13
+ORD01369,Rahul Kapoor,South,Office Supplies,2,35086.92,5066.81,Cash,2025-07-23
+ORD01370,Karthik Reddy,East,Clothing,8,34103.03,3627.68,Credit Card,2025-03-20
+ORD01371,Ajay Jain,South,Electronics,10,1700.03,492.94,UPI,2024-07-27
+ORD01372,Priya Jain,South,Electronics,6,38832.09,7458.63,UPI,2024-12-14
+ORD01373,Sneha Joshi,Central,Clothing,4,41703.94,8031.87,Net Banking,2025-05-27
+ORD01374,Neha Kumar,Central,Groceries,3,40179.0,6417.37,Net Banking,2024-03-13
+ORD01375,Varun Patel,South,Groceries,5,5495.19,959.89,UPI,2025-09-07
+ORD01376,Nisha Kumar,North,Furniture,5,46152.53,5208.1,Debit Card,2024-03-10
+ORD01377,Sneha Gupta,North,Groceries,10,12449.22,2233.89,Cash,2025-05-27
+ORD01378,Pooja Singh,Central,Electronics,9,35027.14,2722.26,Net Banking,2024-09-26
+ORD01379,Rahul Sharma,East,Clothing,5,10425.31,2835.76,UPI,2024-05-22
+ORD01380,Karthik Menon,East,Electronics,4,24930.98,6268.04,Cash,2025-09-16
+ORD01381,Priya Kumar,North,Clothing,10,37094.82,10473.38,Cash,2025-05-05
+ORD01382,Vikram Gupta,North,Electronics,1,25081.54,2666.45,Debit Card,2025-03-17
+ORD01383,Kavya Gupta,South,Electronics,1,1804.51,442.93,Credit Card,2025-07-01
+ORD01384,Asha Yadav,West,Electronics,9,24367.58,3576.7,Net Banking,2025-12-13
+ORD01385,Vikram Singh,West,Groceries,3,6221.37,494.59,Cash,2025-01-11
+ORD01386,Neha Reddy,East,Clothing,1,12289.43,897.1,UPI,2024-08-20
+ORD01387,Divya Verma,Central,Groceries,1,49551.47,2662.13,Credit Card,2024-02-28
+ORD01388,Arjun Sharma,South,Clothing,3,14488.5,1862.23,Cash,2025-11-01
+ORD01389,Meera Gupta,South,Groceries,7,24195.72,1950.03,UPI,2024-03-19
+ORD01390,Rohan Menon,South,Clothing,6,44933.19,11893.37,Net Banking,2025-12-31
+ORD01391,Pooja Kumar,Central,Office Supplies,4,26578.79,3106.63,Cash,2025-05-30
+ORD01392,Ananya Sharma,East,Clothing,10,24567.28,1710.17,Credit Card,2025-06-17
+ORD01393,Meera Gupta,Central,Furniture,2,18933.3,4810.86,Credit Card,2024-02-06
+ORD01394,Meera Verma,West,Clothing,2,1553.84,402.57,Debit Card,2024-10-11
+ORD01395,Varun Singh,East,Electronics,1,14315.08,2897.9,Net Banking,2024-01-20
+ORD01396,Suresh Singh,West,Electronics,4,10683.64,1026.77,Net Banking,2025-06-29
+ORD01397,Priya Joshi,East,Electronics,9,38268.32,10879.91,Cash,2024-12-10
+ORD01398,Rohan Jain,Central,Furniture,1,17376.75,4471.21,Net Banking,2025-03-13
+ORD01399,Priya Jain,North,Groceries,7,47647.44,13489.86,Debit Card,2025-07-01
+ORD01400,Manoj Singh,Central,Groceries,9,13374.99,3879.77,Net Banking,2024-08-31
+ORD01401,Vikram Kapoor,North,Office Supplies,5,4734.07,532.5,Cash,2024-10-29
+ORD01402,Amit Das,West,Electronics,10,14076.36,1649.56,Debit Card,2025-10-30
+ORD01403,Asha Sharma,North,Office Supplies,10,33208.44,8600.98,Credit Card,2025-03-30
+ORD01404,Manoj Sharma,West,Electronics,8,2331.69,325.69,Cash,2024-08-11
+ORD01405,Divya Sharma,Central,Electronics,5,44903.69,8435.7,UPI,2025-03-27
+ORD01406,Sneha Gupta,East,Office Supplies,8,6797.51,1411.06,Credit Card,2025-09-24
+ORD01407,Priya Reddy,North,Electronics,3,34379.85,9115.56,Cash,2024-11-20
+ORD01408,Priya Menon,South,Electronics,5,48776.48,2635.37,Debit Card,2025-07-07
+ORD01409,Priya Das,South,Office Supplies,2,4335.22,697.77,Cash,2024-03-20
+ORD01410,Meera Reddy,East,Groceries,6,41542.32,9149.86,UPI,2025-10-19
+ORD01411,Divya Kapoor,East,Furniture,1,16663.76,4116.63,Debit Card,2025-02-21
+ORD01412,Neha Iyer,East,Groceries,1,8435.48,515.85,Credit Card,2025-08-28
+ORD01413,Rahul Patel,Central,Furniture,6,25784.41,6322.81,Cash,2025-08-18
+ORD01414,Neha Reddy,West,Groceries,1,33024.44,2890.26,UPI,2024-03-20
+ORD01415,Meera Das,Central,Groceries,9,36830.59,6804.15,UPI,2025-06-24
+ORD01416,Priya Das,West,Groceries,9,22330.36,2619.25,Cash,2024-10-27
+ORD01417,Meera Kumar,South,Office Supplies,4,23063.15,5467.05,UPI,2025-12-10
+ORD01418,Meera Iyer,West,Office Supplies,2,17923.24,3161.85,Debit Card,2025-10-31
+ORD01419,Kavya Das,South,Clothing,7,11873.28,3050.9,Credit Card,2025-07-04
+ORD01420,Meera Jain,West,Groceries,3,30474.51,7587.06,Debit Card,2024-11-17
+ORD01421,Ananya Patel,West,Clothing,9,49170.76,9539.27,Credit Card,2024-07-03
+ORD01422,Manoj Sharma,South,Electronics,7,13537.12,2553.71,Net Banking,2024-04-13
+ORD01423,Vikram Yadav,North,Clothing,1,34657.3,10309.97,Credit Card,2025-06-11
+ORD01424,Ajay Kapoor,West,Clothing,6,6808.92,1526.78,Credit Card,2025-12-30
+ORD01425,Pooja Patel,East,Office Supplies,10,30633.49,2357.03,UPI,2024-03-16
+ORD01426,Neha Iyer,West,Clothing,7,14819.91,2508.66,Credit Card,2024-07-06
+ORD01427,Varun Kapoor,Central,Electronics,3,44832.16,8894.18,Debit Card,2025-11-21
+ORD01428,Manoj Singh,East,Clothing,3,25679.03,5059.29,UPI,2024-08-25
+ORD01429,Pooja Iyer,East,Electronics,10,26125.04,4736.43,Cash,2025-03-12
+ORD01430,Pooja Kumar,West,Office Supplies,3,47698.93,2885.0,Credit Card,2025-03-16
+ORD01431,Ajay Gupta,Central,Groceries,6,5423.59,657.33,UPI,2024-10-21
+ORD01432,Rohan Iyer,West,Furniture,3,14779.7,4129.79,Cash,2024-04-18
+ORD01433,Meera Joshi,East,Furniture,2,10738.73,2788.82,Credit Card,2024-01-29
+ORD01434,Asha Kapoor,North,Groceries,9,40050.1,2069.24,UPI,2025-01-13
+ORD01435,Karthik Gupta,Central,Clothing,8,26284.25,6775.01,Debit Card,2024-04-22
+ORD01436,Ananya Iyer,West,Clothing,5,4799.76,404.16,Debit Card,2025-11-15
+ORD01437,Ananya Kumar,North,Furniture,2,16692.23,2950.6,Debit Card,2025-04-09
+ORD01438,Ajay Joshi,North,Office Supplies,1,21952.19,6214.49,Cash,2024-11-21
+ORD01439,Karthik Yadav,Central,Electronics,1,12672.73,2491.28,Credit Card,2025-11-20
+ORD01440,Karthik Gupta,West,Furniture,8,40786.51,9519.17,Debit Card,2024-05-14
+ORD01441,Karthik Joshi,North,Groceries,4,658.29,43.98,Cash,2025-09-17
+ORD01442,Karthik Verma,South,Electronics,7,34555.09,7026.59,Cash,2024-08-28
+ORD01443,Neha Iyer,Central,Furniture,5,42114.25,11318.62,Net Banking,2025-05-16
+ORD01444,Suresh Das,East,Groceries,8,15123.15,1583.89,Debit Card,2025-03-05
+ORD01445,Manoj Kumar,South,Clothing,2,9221.62,2665.78,UPI,2024-12-21
+ORD01446,Suresh Verma,South,Clothing,8,30252.41,6710.15,UPI,2024-10-24
+ORD01447,Rohan Menon,South,Clothing,1,28331.74,3705.74,Debit Card,2025-02-25
+ORD01448,Suresh Jain,West,Clothing,7,13404.62,853.32,Net Banking,2024-08-12
+ORD01449,Amit Joshi,North,Office Supplies,8,20785.67,4014.26,Credit Card,2025-07-02
+ORD01450,Karthik Jain,North,Groceries,10,16819.37,3384.74,UPI,2024-01-22
+ORD01451,Suresh Patel,East,Office Supplies,9,3641.51,226.88,Credit Card,2025-01-05
+ORD01452,Nisha Reddy,South,Groceries,7,43056.28,4621.39,Credit Card,2025-01-17
+ORD01453,Amit Singh,South,Groceries,4,47030.68,2775.69,UPI,2025-06-23
+ORD01454,Ananya Menon,West,Clothing,1,8268.8,1036.63,Credit Card,2025-10-08
+ORD01455,Meera Sharma,East,Electronics,7,32936.16,2727.06,Debit Card,2024-03-27
+ORD01456,Arjun Patel,Central,Clothing,1,1229.72,316.73,Cash,2024-06-04
+ORD01457,Ananya Verma,Central,Clothing,4,41657.85,11032.07,Debit Card,2025-03-11
+ORD01458,Ajay Verma,North,Office Supplies,5,23215.83,1739.33,Cash,2025-04-27
+ORD01459,Suresh Gupta,West,Electronics,4,48360.87,9200.61,Net Banking,2024-10-18
+ORD01460,Nisha Menon,South,Clothing,1,49661.12,11515.89,Debit Card,2025-07-13
+ORD01461,Ananya Iyer,South,Groceries,1,20168.76,2178.81,Debit Card,2025-05-03
+ORD01462,Varun Patel,East,Office Supplies,3,40579.2,11928.43,UPI,2025-07-28
+ORD01463,Sneha Reddy,West,Groceries,4,4652.49,701.59,Net Banking,2025-06-19
+ORD01464,Varun Jain,South,Electronics,8,12975.18,1659.06,Debit Card,2024-06-03
+ORD01465,Priya Kumar,Central,Groceries,7,43635.68,5106.96,Credit Card,2025-07-29
+ORD01466,Kavya Menon,West,Office Supplies,4,16430.98,3733.4,Cash,2025-07-22
+ORD01467,Arjun Kapoor,North,Clothing,2,19096.46,4568.29,Credit Card,2025-06-16
+ORD01468,Ananya Nair,South,Clothing,2,2433.57,379.75,Credit Card,2025-10-03
+ORD01469,Ajay Iyer,South,Groceries,7,20270.58,2517.36,Net Banking,2024-10-28
+ORD01470,Rohan Menon,East,Groceries,6,28408.61,2599.0,Debit Card,2025-06-19
+ORD01471,Karthik Jain,Central,Office Supplies,9,30423.63,5112.01,Credit Card,2024-12-04
+ORD01472,Vikram Nair,Central,Clothing,1,16225.56,1538.29,Net Banking,2024-03-09
+ORD01473,Rahul Gupta,South,Furniture,2,27117.71,3600.11,UPI,2025-10-01
+ORD01474,Manoj Das,South,Electronics,6,31999.0,8666.47,Debit Card,2025-10-05
+ORD01475,Rahul Kapoor,South,Office Supplies,5,41127.34,10981.96,Cash,2024-11-09
+ORD01476,Neha Das,West,Office Supplies,9,27280.34,5860.96,UPI,2025-08-29
+ORD01477,Vikram Patel,South,Office Supplies,3,13515.41,1021.5,Cash,2025-08-24
+ORD01478,Suresh Kumar,Central,Groceries,10,14223.26,3581.77,Cash,2025-11-15
+ORD01479,Kavya Reddy,South,Electronics,4,49459.82,3602.38,Cash,2024-05-30
+ORD01480,Vikram Nair,West,Electronics,6,4350.48,1272.34,Credit Card,2025-06-07
+ORD01481,Manoj Singh,West,Office Supplies,5,25268.57,2004.41,Cash,2025-02-06
+ORD01482,Suresh Jain,West,Clothing,6,15932.21,2875.71,Cash,2024-03-21
+ORD01483,Asha Yadav,South,Furniture,5,35711.71,9283.94,Cash,2025-03-28
+ORD01484,Kavya Verma,East,Electronics,9,45038.23,9594.18,Credit Card,2024-01-26
+ORD01485,Neha Yadav,West,Office Supplies,7,11082.11,2105.03,Credit Card,2025-01-26
+ORD01486,Neha Nair,North,Furniture,8,18369.07,1813.43,Cash,2024-11-13
+ORD01487,Amit Patel,East,Office Supplies,9,46117.42,9301.59,UPI,2025-10-24
+ORD01488,Rohan Joshi,West,Clothing,1,49789.02,11255.61,Debit Card,2025-10-02
+ORD01489,Priya Das,North,Clothing,10,31795.88,5487.18,Net Banking,2025-10-25
+ORD01490,Nisha Jain,North,Electronics,6,1927.43,527.28,Credit Card,2025-12-23
+ORD01491,Sneha Yadav,South,Electronics,7,41786.19,3336.91,Net Banking,2025-10-14
+ORD01492,Priya Kumar,North,Groceries,5,49178.47,4846.32,Cash,2024-01-18
+ORD01493,Amit Yadav,East,Furniture,10,36245.71,5131.09,UPI,2025-11-11
+ORD01494,Suresh Singh,North,Electronics,4,41339.85,7250.24,Debit Card,2024-03-26
+ORD01495,Sneha Iyer,North,Office Supplies,10,10334.83,1822.72,Credit Card,2025-10-12
+ORD01496,Rahul Gupta,East,Groceries,6,6326.87,1053.82,UPI,2025-08-02
+ORD01497,Manoj Patel,North,Electronics,3,36612.74,3530.01,Cash,2025-10-03
+ORD01498,Rahul Jain,South,Electronics,4,32078.31,5295.72,Credit Card,2024-11-11
+ORD01499,Karthik Verma,South,Office Supplies,1,19275.87,2347.21,Debit Card,2024-05-23
+ORD01500,Varun Kumar,West,Furniture,4,14003.57,1397.64,Debit Card,2024-09-22
