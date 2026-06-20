@@ -97,5 +97,4 @@ This project demonstrates:
 - Business Intelligence Concepts
 - Machine Learning Forecasting
 - Deployment using Streamlit
-
-- 
+ 
